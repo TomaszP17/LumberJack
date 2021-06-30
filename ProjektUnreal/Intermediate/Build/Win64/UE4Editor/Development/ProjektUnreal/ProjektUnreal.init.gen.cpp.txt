@@ -1,0 +1,3 @@
+C:\Users\Tomasz\Desktop\LumberJack\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\Definitions.ProjektUnreal.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
