@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ProjektUnreal",
-			"Path": "C:\\Users\\Tomasz\\Desktop\\LumberJack\\ProjektUnreal\\Source\\ProjektUnreal.Target.cs",
+			"Path": "C:\\Users\\Tomasz\\Desktop\\LumberJack-OG\\ProjektUnreal\\Source\\ProjektUnreal.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ProjektUnrealEditor",
-			"Path": "C:\\Users\\Tomasz\\Desktop\\LumberJack\\ProjektUnreal\\Source\\ProjektUnrealEditor.Target.cs",
+			"Path": "C:\\Users\\Tomasz\\Desktop\\LumberJack-OG\\ProjektUnreal\\Source\\ProjektUnrealEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ProjektUnreal.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{63DCB5AC-2DBE-4D0E-8BA2-13F4644CB4CB}</UniqueIdentifier>
+      <UniqueIdentifier>{880FB40F-B02D-4CEE-8EC6-4D8DA31CDC8A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjektUnreal.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{A15C6842-B303-4F5C-947D-7A59BD68258C}</UniqueIdentifier>
+      <UniqueIdentifier>{DD4AE2A1-A84D-4A08-B918-B0FD566FD44A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ProjektUnreal">
-      <UniqueIdentifier>{1CF819DD-66E9-41C8-A6E0-87DD70AE0604}</UniqueIdentifier>
+      <UniqueIdentifier>{A2F08F8D-5705-4E29-B262-B59F231DE053}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjektUnreal\ProjektUnreal.Build.cs">
       <Filter>Source\ProjektUnreal</Filter>

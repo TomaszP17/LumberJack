@@ -1,2 +1,2 @@
-C:\Users\Tomasz\Desktop\LumberJack\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\Definitions.ProjektUnreal.h
-C:\Users\Tomasz\Desktop\LumberJack\ProjektUnreal\Source\ProjektUnreal\ProjektUnreal.h
+C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\Definitions.ProjektUnreal.h
+C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\ProjektUnreal.h
