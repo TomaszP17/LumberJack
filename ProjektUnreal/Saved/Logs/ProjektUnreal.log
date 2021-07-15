@@ -1662,3 +1662,84 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.15-08.26.39:316][239]MapCheck: Map check complete: 0 Error(s), 39 Warning(s), took 3,274ms to complete.
 [2021.07.15-08.27.40:982][423]LogSlate: Window 'Message Log' being destroyed
 [2021.07.15-08.27.40:984][423]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-08.32.38:479][346]LogHotReload: New module detected: UE4Editor-ProjektUnreal-0768.dll
+[2021.07.15-08.32.38:489][347]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.15-08.32.38:516][347]LogClass: Could not find existing class MyPawn in package /Script/ProjektUnreal for HotReload, assuming new class
+[2021.07.15-08.32.38:521][347]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 3 classes and 2 folders.
+[2021.07.15-08.32.38:522][347]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.15-08.32.38:552][347]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3604 classes and 861 folders.
+[2021.07.15-08.32.38:555][347]Display: HotReload took  0.1s.
+[2021.07.15-08.32.38:818][347]LogHotReload: New module detected: UE4Editor-ProjektUnreal-2263.dll
+[2021.07.15-08.32.38:818][347]LogHotReload: New module detected: UE4Editor-ProjektUnreal-6504.dll
+[2021.07.15-08.32.38:842][348]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.15-08.32.38:909][348]LogClass: Could not find existing class ShooterCharacter in package /Script/ProjektUnreal for HotReload, assuming new class
+[2021.07.15-08.32.38:915][348]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2021.07.15-08.32.38:917][348]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.15-08.32.38:946][348]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3605 classes and 861 folders.
+[2021.07.15-08.32.38:948][348]Display: HotReload took  0.1s.
+[2021.07.15-08.32.39:156][348]LogHotReload: New module detected: UE4Editor-ProjektUnreal-6992.dll
+[2021.07.15-08.32.39:196][349]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.15-08.32.51:466][349]LogWindows: Failed to load 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Binaries/Win64/UE4Editor-ProjektUnreal-6992.dll' (GetLastError=193)
+[2021.07.15-08.32.51:466][349]LogModuleManager: Warning: ModuleManager: Unable to load module 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Binaries/Win64/UE4Editor-ProjektUnreal-6992.dll' because the file couldn't be loaded by the OS.
+[2021.07.15-08.32.51:466][349]Warning: HotReload failed, reload failed /Script/ProjektUnreal.
+[2021.07.15-08.32.51:478][349]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3605 classes and 861 folders.
+[2021.07.15-08.32.51:480][349]Display: HotReload took 12.3s.
+[2021.07.15-08.33.31:315][359]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (GlownyBohater)
+[2021.07.15-08.33.36:606][957]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-08.33.36:615][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-08.33.36:615][957]PIE: New page: PIE session: ThirdPersonExampleMap (15 lip 2021, 12:33:36)
+[2021.07.15-08.33.36:616][957]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.15-08.33.36:618][957]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.15-08.33.36:619][957]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.15-08.33.36:724][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104948s)
+[2021.07.15-08.33.36:725][957]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.15-08.33.36:726][957]LogPlayLevel: PIE: World Init took: (0.001787s)
+[2021.07.15-08.33.36:726][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.107293s)
+[2021.07.15-08.33.36:739][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.07.15-08.33.36:742][957]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-08.33.36:742][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-08.33.36:742][957]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-08.33.36:742][957]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-08.33.36:747][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-08.33.36:747][957]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-08.33.36:755][957]LogAudioMixer: Display: Using Audio Device Słuchawki (VIRO Plus)
+[2021.07.15-08.33.36:755][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-08.33.36:755][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-08.33.36:756][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-08.33.36:756][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-08.33.36:756][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-08.33.36:756][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-08.33.36:767][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-08.33.36:767][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-08.33.36:767][957]LogInit: FAudioDevice initialized.
+[2021.07.15-08.33.36:767][957]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.07.15-08.33.36:778][957]LogLoad: Game class is 'ProjektUnrealGameMode'
+[2021.07.15-08.33.36:799][957]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.15-10.33.36
+[2021.07.15-08.33.36:801][957]LogWorld: Bringing up level for play took: 0.016634
+[2021.07.15-08.33.36:801][957]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.07.15-08.33.36:831][957]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.15-08.33.36:834][957]PIE: Server logged in
+[2021.07.15-08.33.36:835][957]PIE: Play in editor total start time 0,225 seconds.
+[2021.07.15-08.33.41:638][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-08.33.41:638][520]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.15-08.33.41:638][520]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-08.33.41:641][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.33.41:648][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-08.33.41:712][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-08.33.41:716][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-08.33.41:719][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-08.33.41:720][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-08.33.41:732][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-08.33.41:741][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.07.15-08.33.41:775][521]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.07.15-08.34.36:360][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.15-08.34.36:808][920]LogSavePackage: Moving '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/ThirdPersonExampleMap_Auto1F7D915784D6081BE843369AEA60A1A6B.tmp' to '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.07.15-08.34.36:811][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.455
+[2021.07.15-08.34.36:811][920]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.455
