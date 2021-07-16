@@ -7,3 +7,5 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\ShooterCharacter.generated.h
+C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\Gun.h
+C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\Gun.generated.h

@@ -34,10 +34,12 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\ProjektUnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\Gun.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ProjektUnreal.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ProjektUnrealCharacter.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ProjektUnrealGameMode.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ShooterCharacter.cpp.obj"
+"C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\Gun.gen.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ProjektUnreal.init.gen.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ProjektUnrealCharacter.gen.cpp.obj"
 "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\ProjektUnrealGameMode.gen.cpp.obj"

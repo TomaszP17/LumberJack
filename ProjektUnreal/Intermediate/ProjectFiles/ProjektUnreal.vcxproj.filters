@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ProjektUnreal.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{41B1B467-B05A-4F87-A5E8-E6A9DA9D90EE}</UniqueIdentifier>
+      <UniqueIdentifier>{5E6141A9-F9B4-4AE3-9AFB-F8A892516C19}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjektUnreal.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{0E640D30-935A-47C4-979A-955401977EE5}</UniqueIdentifier>
+      <UniqueIdentifier>{C068C4DB-793C-4C11-883A-FF46486A4FB3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ProjektUnreal">
-      <UniqueIdentifier>{654E39A5-B839-4F94-A71C-7A3E3A11DD9B}</UniqueIdentifier>
+      <UniqueIdentifier>{0E6041BC-5882-4237-8A7B-0EABEA57C2E0}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ProjektUnreal\Gun.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\Gun.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
     <None Include="..\..\Source\ProjektUnreal\ProjektUnreal.Build.cs">
       <Filter>Source\ProjektUnreal</Filter>
     </None>
