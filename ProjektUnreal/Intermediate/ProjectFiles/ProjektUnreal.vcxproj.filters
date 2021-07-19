@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ProjektUnreal.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5E6141A9-F9B4-4AE3-9AFB-F8A892516C19}</UniqueIdentifier>
+      <UniqueIdentifier>{BCAAEC8C-2FA9-4C60-9289-5BFEE67409C8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjektUnreal.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C068C4DB-793C-4C11-883A-FF46486A4FB3}</UniqueIdentifier>
+      <UniqueIdentifier>{89D942A9-1E9A-4ECA-B0F6-331B9F15DC19}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ProjektUnreal">
-      <UniqueIdentifier>{0E6041BC-5882-4237-8A7B-0EABEA57C2E0}</UniqueIdentifier>
+      <UniqueIdentifier>{D13ABB33-CC99-42A5-A0FC-886333CFE031}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ProjektUnreal\Gun.cpp">
       <Filter>Source\ProjektUnreal</Filter>
@@ -59,12 +59,17 @@
     <ClInclude Include="..\..\Source\ProjektUnreal\ProjektUnrealGameMode.h">
       <Filter>Source\ProjektUnreal</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ProjektUnreal\ShooterAIController.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\ShooterAIController.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ProjektUnreal\ShooterCharacter.cpp">
       <Filter>Source\ProjektUnreal</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ProjektUnreal\ShooterCharacter.h">
       <Filter>Source\ProjektUnreal</Filter>
     </ClInclude>
-    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
