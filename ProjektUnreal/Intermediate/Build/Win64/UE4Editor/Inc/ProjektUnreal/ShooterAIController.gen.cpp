@@ -40,7 +40,6 @@ void EmptyLinkFunctionForGeneratedCodeShooterAIController() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShooterAIController_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "ShooterAIController.h" },
 		{ "ModuleRelativePath", "ShooterAIController.h" },
@@ -73,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterAIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AShooterAIController, 3599888016);
+	IMPLEMENT_CLASS(AShooterAIController, 2569673130);
 	template<> PROJEKTUNREAL_API UClass* StaticClass<AShooterAIController>()
 	{
 		return AShooterAIController::StaticClass();
