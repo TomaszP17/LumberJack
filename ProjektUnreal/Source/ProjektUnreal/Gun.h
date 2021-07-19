@@ -15,6 +15,8 @@ public:
 	// Sets default values for this actor's properties
 	AGun();
 
+	void PullTrigger();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -28,4 +30,13 @@ private:
 		USceneComponent* Root;
 	UPROPERTY(VisibleAnywhere)
 		USkeletalMeshComponent* Mesh;
+	UPROPERTY(EditAnywhere)
+		UParticleSystem *MuzzleFlash;
+	UPROPERTY(EditAnywhere)
+		UParticleSystem *ImpactEffect;
+	UPROPERTY(Editanywhere)
+		float MaxRange = 1000;
+
+	UPROPERTY(Editanywhere)
+		float Damage = 10;
 };

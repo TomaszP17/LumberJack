@@ -65,5 +65,6 @@
     <ClInclude Include="..\..\Source\ProjektUnreal\ShooterCharacter.h">
       <Filter>Source\ProjektUnreal</Filter>
     </ClInclude>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>

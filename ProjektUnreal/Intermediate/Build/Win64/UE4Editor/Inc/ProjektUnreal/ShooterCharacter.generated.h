@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define PROJEKTUNREAL_ShooterCharacter_generated_h
 
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_SPARSE_DATA
-#define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_RPC_WRAPPERS
-#define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execIsDead);
+
+
+#define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execIsDead);
+
+
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAShooterCharacter(); \
@@ -60,6 +68,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AShooterCharacter); \
 
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__RotationRate() { return STRUCT_OFFSET(AShooterCharacter, RotationRate); } \
+	FORCEINLINE static uint32 __PPO__MaxHealth() { return STRUCT_OFFSET(AShooterCharacter, MaxHealth); } \
+	FORCEINLINE static uint32 __PPO__Health() { return STRUCT_OFFSET(AShooterCharacter, Health); } \
 	FORCEINLINE static uint32 __PPO__GunClass() { return STRUCT_OFFSET(AShooterCharacter, GunClass); } \
 	FORCEINLINE static uint32 __PPO__Gun() { return STRUCT_OFFSET(AShooterCharacter, Gun); }
 

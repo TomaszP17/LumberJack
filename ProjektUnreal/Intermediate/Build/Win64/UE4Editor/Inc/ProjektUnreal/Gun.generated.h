@@ -60,7 +60,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGun); \
 
 #define ProjektUnreal_Source_ProjektUnreal_Gun_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Root() { return STRUCT_OFFSET(AGun, Root); } \
-	FORCEINLINE static uint32 __PPO__Mesh() { return STRUCT_OFFSET(AGun, Mesh); }
+	FORCEINLINE static uint32 __PPO__Mesh() { return STRUCT_OFFSET(AGun, Mesh); } \
+	FORCEINLINE static uint32 __PPO__MuzzleFlash() { return STRUCT_OFFSET(AGun, MuzzleFlash); } \
+	FORCEINLINE static uint32 __PPO__ImpactEffect() { return STRUCT_OFFSET(AGun, ImpactEffect); } \
+	FORCEINLINE static uint32 __PPO__MaxRange() { return STRUCT_OFFSET(AGun, MaxRange); } \
+	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(AGun, Damage); }
 
 
 #define ProjektUnreal_Source_ProjektUnreal_Gun_h_9_PROLOG

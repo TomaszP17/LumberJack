@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeProjektUnreal_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x03DB96E9,
+				0x23A986C1,
 				0x79EB29C8,
 				METADATA_PARAMS(nullptr, 0)
 			};
