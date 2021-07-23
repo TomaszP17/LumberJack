@@ -6,13 +6,13 @@
 #include "GameFramework/GameModeBase.h"
 #include "ProjektUnrealGameMode.generated.h"
 
-UCLASS(minimalapi)
+UCLASS()
 class AProjektUnrealGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
 
 public:
-	AProjektUnrealGameMode();
+	virtual void PawnKilled(APawn* PawnKilled);
 };
 
 

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ProjektUnreal.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BCAAEC8C-2FA9-4C60-9289-5BFEE67409C8}</UniqueIdentifier>
+      <UniqueIdentifier>{E1F435CE-EE87-454B-AE36-CCEC66FAAE7D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjektUnreal.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\ProjektUnrealEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\ProjektUnreal.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{89D942A9-1E9A-4ECA-B0F6-331B9F15DC19}</UniqueIdentifier>
+      <UniqueIdentifier>{676D1A66-5C5E-4E93-B677-35B226FBD8F6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,12 +31,42 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ProjektUnreal">
-      <UniqueIdentifier>{D13ABB33-CC99-42A5-A0FC-886333CFE031}</UniqueIdentifier>
+      <UniqueIdentifier>{3AE4A971-E7D4-45F2-BA9B-31E8458B89EA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ProjektUnreal\BTService_PlayerLocation.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\BTService_PlayerLocation.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjektUnreal\BTService_PlayerLocationIfSeen.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\BTService_PlayerLocationIfSeen.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjektUnreal\BTTask_ClearBlackboardValue.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\BTTask_ClearBlackboardValue.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjektUnreal\BTTask_Shoot.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\BTTask_Shoot.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ProjektUnreal\Gun.cpp">
       <Filter>Source\ProjektUnreal</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ProjektUnreal\Gun.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjektUnreal\KillEmAllGameMode.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\KillEmAllGameMode.h">
       <Filter>Source\ProjektUnreal</Filter>
     </ClInclude>
     <None Include="..\..\Source\ProjektUnreal\ProjektUnreal.Build.cs">
@@ -69,6 +100,12 @@
       <Filter>Source\ProjektUnreal</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ProjektUnreal\ShooterCharacter.h">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjektUnreal\ShooterPlayerController.cpp">
+      <Filter>Source\ProjektUnreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektUnreal\ShooterPlayerController.h">
       <Filter>Source\ProjektUnreal</Filter>
     </ClInclude>
   </ItemGroup>

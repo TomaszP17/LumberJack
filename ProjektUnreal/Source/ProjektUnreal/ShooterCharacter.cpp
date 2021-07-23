@@ -3,6 +3,8 @@
 
 #include "ShooterCharacter.h"
 #include "Gun.h"
+#include "Components/CapsuleComponent.h"
+#include "ProjektUnrealGameMode.h"
 
 // Sets default values
 AShooterCharacter::AShooterCharacter()
@@ -66,6 +68,19 @@ float AShooterCharacter::TakeDamage(float DamageAmount, struct FDamageEvent cons
 	DamageToApply = FMath::Min(Health, DamageToApply);
 	Health -= DamageToApply;
 	UE_LOG(LogTemp, Warning, TEXT("Pozostalo zycia: %f"), Health);
+
+	if (IsDead())
+	{
+		AProjektUnrealGameMode* GameMode = GetWorld()->GetAuthGameMode<AProjektUnrealGameMode>();
+
+		if (GameMode != nullptr)
+		{
+			GameMode->PawnKilled(this);
+		}
+		DetachFromControllerPendingDestroy();
+		GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	}
+
 
 	return DamageToApply;
 }

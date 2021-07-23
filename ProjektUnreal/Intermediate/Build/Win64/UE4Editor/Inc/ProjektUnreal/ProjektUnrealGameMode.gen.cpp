@@ -61,7 +61,7 @@ void EmptyLinkFunctionForGeneratedCodeProjektUnrealGameMode() {}
 		0,
 		0,
 		0,
-		0x008802ACu,
+		0x008002ACu,
 		METADATA_PARAMS(Z_Construct_UClass_AProjektUnrealGameMode_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AProjektUnrealGameMode_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_AProjektUnrealGameMode()
@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeProjektUnrealGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AProjektUnrealGameMode, 1802229385);
+	IMPLEMENT_CLASS(AProjektUnrealGameMode, 1743130891);
 	template<> PROJEKTUNREAL_API UClass* StaticClass<AProjektUnrealGameMode>()
 	{
 		return AProjektUnrealGameMode::StaticClass();

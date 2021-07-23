@@ -1,0 +1,1655 @@
+﻿Log file open, 07/23/21 11:51:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjektUnreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204429
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/Tomasz/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.23-09.51.21:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.23-09.51.21:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.23-09.51.21:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:745][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.23-09.51.21:745][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.23-09.51.21:746][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.23-09.51.21:746][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.23-09.51.21:746][  0]LogHAL: Display: Platform has ~ 16 GB [17125527552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.23-09.51.21:746][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.23-09.51.21:746][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.23-09.51.21:747][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.23-09.51.21:748][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.23-09.51.21:748][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.23-09.51.21:748][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.23-09.51.21:748][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.07.23-09.51.21:748][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Config/Windows/Editor.ini]
+[2021.07.23-09.51.21:748][  0]LogInit: Computer: DESKTOP-DE32QLT
+[2021.07.23-09.51.21:748][  0]LogInit: User: Tomasz
+[2021.07.23-09.51.21:748][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.23-09.51.21:748][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.23-09.51.21:748][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.23-09.51.21:748][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.23-09.51.21:748][  0]LogMemory: Process Physical Memory: 135.55 MB used, 135.55 MB peak
+[2021.07.23-09.51.21:748][  0]LogMemory: Process Virtual Memory: 119.79 MB used, 119.79 MB peak
+[2021.07.23-09.51.21:748][  0]LogMemory: Physical Memory: 9736.80 MB used,  6595.38 MB free, 16332.18 MB total
+[2021.07.23-09.51.21:748][  0]LogMemory: Virtual Memory: 134210816.00 MB used,  6910.24 MB free, 134217728.00 MB total
+[2021.07.23-09.51.21:752][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.23-09.51.21:782][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.23-09.51.21:783][  0]LogInit: Using OS detected language (pl-PL).
+[2021.07.23-09.51.21:783][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.07.23-09.51.21:788][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.07.23-09.51.21:789][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.07.23-09.51.21:789][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.23-09.51.21:797][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.23-09.51.21:807][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.23-09.51.21:807][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.23-09.51.21:916][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.23-09.51.21:916][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.23-09.51.21:916][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.23-09.51.21:916][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.23-09.51.22:006][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.07.23-09.51.22:006][  0]LogD3D11RHI:       12143/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.07.23-09.51.22:096][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.07.23-09.51.22:096][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.07.23-09.51.22:098][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.23-09.51.22:098][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.23-09.51.22:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.23-09.51.22:103][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.23-09.51.22:103][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.23-09.51.22:103][  0]LogWindows: EnumDisplayDevices:
+[2021.07.23-09.51.22:103][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.07.23-09.51.22:103][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:1)
+[2021.07.23-09.51.22:103][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.07.23-09.51.22:103][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.07.23-09.51.22:103][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.07.23-09.51.22:104][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.07.23-09.51.22:104][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.07.23-09.51.22:104][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.07.23-09.51.22:104][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.07.23-09.51.22:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.07.23-09.51.22:104][  0]LogD3D11RHI:   Driver Version: 470.05 (internal:27.21.14.7005, unified:470.05)
+[2021.07.23-09.51.22:104][  0]LogD3D11RHI:      Driver Date: 2-26-2021
+[2021.07.23-09.51.22:104][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.07.23-09.51.22:171][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.23-09.51.22:171][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.23-09.51.22:171][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.23-09.51.22:172][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x82061087).
+[2021.07.23-09.51.22:193][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.23-09.51.22:194][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.23-09.51.22:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.23-09.51.22:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.23-09.51.22:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.23-09.51.22:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.23-09.51.22:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.23-09.51.22:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.23-09.51.22:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.23-09.51.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.23-09.51.22:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.23-09.51.22:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.23-09.51.22:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.23-09.51.22:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.23-09.51.22:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.23-09.51.22:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.23-09.51.22:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.23-09.51.22:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.23-09.51.22:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.23-09.51.22:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.23-09.51.22:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.23-09.51.22:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.23-09.51.22:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.23-09.51.22:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.23-09.51.22:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.23-09.51.22:591][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.23-09.51.22:596][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.23-09.51.22:641][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.23-09.51.22:641][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Intermediate/Shaders/WorkingDirectory/7256/).
+[2021.07.23-09.51.22:641][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tomasz/AppData/Local/Temp/UnrealShaderWorkingDir/55B479BB4CEF04F4F9DAB1A5324F851E/'.
+[2021.07.23-09.51.22:641][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.23-09.51.22:641][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.23-09.51.23:227][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.23-09.51.23:265][  0]LogDerivedDataCache: Loaded boot cache 0.04s 85MB C:/Users/Tomasz/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.23-09.51.23:265][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tomasz/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.23-09.51.23:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.23-09.51.23:265][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.23-09.51.23:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.23-09.51.23:265][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.23-09.51.23:275][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.23-09.51.23:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.23-09.51.23:276][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.23-09.51.23:283][  0]LogDerivedDataCache: Speed tests for C:/Users/Tomasz/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.23-09.51.23:283][  0]LogDerivedDataCache: Display: Performance to C:/Users/Tomasz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=368.11MBs, RandomWriteSpeed=190.15MBs. Assigned SpeedClass 'Local'
+[2021.07.23-09.51.23:284][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tomasz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.23-09.51.23:284][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.23-09.51.23:284][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.23-09.51.23:324][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.23-09.51.23:324][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.23-09.51.23:341][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.07.23-09.51.23:529][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.23-09.51.23:529][  0]LogInit: Active device profile: [000001644F09B400][00000164427DC480 49] Windows
+[2021.07.23-09.51.23:530][  0]LogInit: Profiles: [000001644F09B400][00000164427DC480 49] Windows, [000001644F05CE00][000001644E82A600 49] WindowsNoEditor, [000001644F098E00][000001644E838780 49] WindowsServer, [000001644F05EC00][000001644E83C900 49] WindowsClient, [000001644F09AB00][000001644E840A80 49] IOS, [000001644F05D700][000001644E844C00 49] iPadAir, [000001644F099600][000001644E848D80 49] iPadAir2, [000001644F014600][000001644E857040 49] IPadPro, [000001644F014700][000001644E84D080 49] iPadAir3, [000001644F09A500][000001644E861200 49] iPadAir4, [000001644F017200][000001644E865380 49] iPadMini2, [000001644F099B00][000001644E869500 49] iPadMini3, [000001644F015F00][000001644E821640 49] iPadMini4, [000001644F09BC00][000001644E86D780 49] iPadMini5, [000001644F00BE00][000001644E8759C0 49] iPhone6, [000001644F00BF00][000001644E871A00 49] iPodTouch6, [000001644F05C600][000001644E881CC0 49] iPhone7, [000001644F05E400][000001644E87DD00 49] iPodTouch7, [000001644F009200][000001644E8841C0 49] iPhone5S, [000001644F05D600][000001644E888340 49] iPhone6Plus, [000001644F00A700][000001644E88C4C0 49] iPhone6S, [000001644F05C300][000001644E890640 49] iPhone6SPlus, [000001644F009A00][000001644E8947C0 49] iPhone7Plus, [000001644F05F200][000001644E898940 49] iPhoneSE, [000001644F00BB00][000001644E89CAC0 49] iPhone8, [000001644F05E600][000001644E8A0C40 49] iPhone8Plus, [000001644F00B200][000001644E8A4DC0 49] iPhoneX, [000001644F05FF00][000001644E8A8F40 49] iPhoneXS, [000001644F009400][000001644E8AD0C0 49] iPhoneXSMax, [000001644F05C500][000001644F8C1240 49] iPhoneXR, [000001644F008E00][000001644F8C53C0 49] iPhone11, [000001644F05F900][000001644F8C9540 49] iPhone11Pro, [000001644F009800][000001644E879680 49] iPhone11ProMax, [000001644F05F800][000001644F8CD7C0 49] iPhoneSE2, [000001644F009300][000001644F8D1900 49] iPhone12Mini, [000001644F05CC00][000001644F8D5A40 49] iPhone12, [000001644F009D00][000001644F8DDBC0 49] iPhone12Pro, [000001644F05F500][000001644F8E1D40 49] iPhone12ProMax, [000001644F00A200][000001644F8E4200 49] iPadPro105, [000001644F05D800][000001644F8E8380 49] iPadPro129, [000001644F00A900][000001644F8EC500 49] iPadPro97, [000001644F05F700][000001644F8F0680 49] iPadPro2_129, [000001644F009B00][000001644F8F4800 49] iPad5, [000001644F05C800][000001644F8F8980 49] iPad6, [000001644F00AE00][000001644F8FCB00 49] iPad7, [000001644F05C100][000001644F900C80 49] iPad8, [000001644F00A000][000001644F904E00 49] iPadPro11, [000001644F05E700][000001644F908F80 49] iPadPro2_11, [000001644F008500][000001644F90D100 49] iPadPro3_129, [000001644F05F300][000001644F911280 49] iPadPro4_129, [000001644F00A400][000001644F915400 49] AppleTV, [000001644F05C900][000001644F919580 49] AppleTV4K, [000001644F008800][000001644F91D700 49] TVOS, [000001644F05DA00][000001644F8D9840 49] Mac, [000001644F00BA00][000001644F921980 49] MacClient, [000001644F05D100][000001644F925AC0 49] MacNoEditor, [000001644F008A00][000001644F92DC40 49] MacServer, [000001644F05ED00][000001644F930100 49] Linux, [000001644F00AA00][000001644F934280 49] LinuxAArch64, [000001644F05CA00][000001644F938400 49] LinuxNoEditor, [000001644F008C00][000001644F93C580 49] LinuxAArch64NoEditor, [000001644F098C00][000001644F940700 49] LinuxClient, [000001644F119600][000001644F944880 49] LinuxAArch64Client, [000001644F099A00][000001644F948A00 49] LinuxServer, [000001644F118300][000001644F94CB80 49] LinuxAArch64Server, [000001644F09A100][000001644F950D00 49] Android, [000001644F119A00][000001644F954E80 49] Android_Low, [000001644F09BE00][000001644F959000 49] Android_Mid, [000001644F118500][000001644F95D180 49] Android_High, [000001644F099800][000001644F961300 49] Android_Default, [000001644F119700][000001644F965480 49] Android_Adreno4xx, [000001644F09A900][000001644F969600 49] Android_Adreno5xx_Low, [000001644F118A00][000001644F96D780 49] Android_Adreno5xx, [000001644F00AB00][000001644F9298C0 49] Android_Adreno6xx, [000001644F05FA00][000001644F971A00 49] Android_Adreno6xx_Vulkan, [000001644F00B400][000001644F975B40 49] Android_Mali_T6xx, [000001644F05E900][000001644F97DCC0 49] Android_Mali_T7xx, [000001644F00A600][000001644F980180 49] Android_Mali_T8xx, [000001644F05FB00][000001644F984300 49] Android_Mali_G71, [000001644F00A500][000001644F988480 49] Android_Mali_G72, [000001644F05DC00][000001644F98C600 49] Android_Mali_G72_Vulkan, [000001644F009C00][000001644F990780 49] Android_Mali_G76, [000001644F05D900][000001644F994900 49] Android_Mali_G76_Vulkan, [000001644F00BC00][000001644F998A80 49] Android_Mali_G77, [000001644F05F000][000001644F99CC00 49] Android_Mali_G77_Vulkan, [000001644F00B100][000001644F9A0D80 49] Android_Vulkan_SM5, [000001644F05E100][000001644F9A4F00 49] Android_PowerVR_G6xxx, [000001644F008B00][000001644F9A9080 49] Android_PowerVR_GT7xxx, [000001644F05C700][000001644F9D3200 49] Android_PowerVR_GE8xxx, [000001644F009700][000001644F9E9380 49] Android_PowerVR_GM9xxx, [000001644F118900][000001644FA03500 49] Android_PowerVR_GM9xxx_Vulkan, [000001644F009900][000001644FA1D680 49] Android_TegraK1, [000001644F118100][000001644FA25800 49] Android_Unknown_Vulkan, [000001644F009E00][000001644F979940 49] Lumin, [000001644F119D00][000001644FA29A80 49] Lumin_Desktop, [000001644F009000][000001644FA2DBC0 49] HoloLens, 
+[2021.07.23-09.51.23:615][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.23-09.51.23:615][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.23-09.51.23:615][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.23-09.51.23:615][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.23-09.51.23:615][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.23-09.51.23:628][  0]LogNetVersion: ProjektUnreal 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4147970668)
+[2021.07.23-09.51.23:937][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.23-09.51.23:968][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.030829 seconds
+[2021.07.23-09.51.23:973][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.23-09.51.23:973][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.23-09.51.23:973][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.23-09.51.24:120][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Cylinder.uasset: Failed to load '/Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst': Can't find file.
+[2021.07.23-09.51.24:120][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Cylinder.uasset: Failed to load '/Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst': Can't find file.
+[2021.07.23-09.51.24:120][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Cylinder.uasset: Failed to load '/Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst': Can't find file.
+[2021.07.23-09.51.24:133][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Cylinder.uasset: Failed to load '/Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst': Can't find file.
+[2021.07.23-09.51.24:133][  0]LoadErrors: Failed to load /Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst.04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst Referenced by Cylinder
+[2021.07.23-09.51.24:133][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Content\BasicShapes\Cylinder.uasset: Failed to load '/Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst': Can't find file.
+[2021.07.23-09.51.24:133][  0]LoadErrors: Failed to load /Game/Megascans/Surface/04_Red_Brick_Wall_2x2_M_tgzpcj3bw/04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst.04_Red_Brick_Wall_2x2_M_tgzpcj3bw_8K_inst Referenced by Cylinder
+[2021.07.23-09.51.24:170][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.23-09.51.24:174][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.23-09.51.24:455][  0]SourceControl: Source control is disabled
+[2021.07.23-09.51.24:697][  0]LogUProjectInfo: Found projects:
+[2021.07.23-09.51.24:830][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.23-09.51.24:841][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.23-09.51.24:841][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.23-09.51.24:926][  0]LogOcInput: OculusInput pre-init called
+[2021.07.23-09.51.24:935][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.23-09.51.24:935][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.23-09.51.24:941][  0]LogCollectionManager: Loaded 0 collections in 0.001741 seconds
+[2021.07.23-09.51.24:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Collections/' took 0.00s
+[2021.07.23-09.51.24:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/Developers/Tomasz/Collections/' took 0.00s
+[2021.07.23-09.51.24:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/Collections/' took 0.00s
+[2021.07.23-09.51.24:989][  0]LogEngine: Initializing Engine...
+[2021.07.23-09.51.24:990][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.23-09.51.24:990][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.23-09.51.24:990][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.23-09.51.25:064][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.23-09.51.25:072][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.23-09.51.25:075][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.23-09.51.25:078][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.23-09.51.25:078][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-09.51.25:078][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-09.51.25:078][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-09.51.25:079][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-09.51.25:079][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-09.51.25:093][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-09.51.25:093][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-09.51.25:115][  0]LogAudioMixer: Display: Using Audio Device Słuchawki (VIRO Plus)
+[2021.07.23-09.51.25:117][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-09.51.25:119][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-09.51.25:119][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-09.51.25:119][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-09.51.25:119][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-09.51.25:119][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-09.51.25:120][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-09.51.25:120][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-09.51.25:120][  0]LogInit: FAudioDevice initialized.
+[2021.07.23-09.51.25:120][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.23-09.51.25:120][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.23-09.51.25:164][  0]LogDerivedDataCache: Saved boot cache 0.04s 85MB C:/Users/Tomasz/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.23-09.51.25:165][  0]LogInit: Texture streaming: Enabled
+[2021.07.23-09.51.25:174][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.23-09.51.25:176][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.23-09.51.25:176][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.23-09.51.25:178][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.23-09.51.25:198][  0]LogInit: Transaction tracking system initialized
+[2021.07.23-09.51.25:213][  0]BlueprintLog: New page: Editor Load
+[2021.07.23-09.51.25:260][  0]LocalizationService: Localization service is disabled
+[2021.07.23-09.51.25:276][  0]TimingProfiler: Initialize
+[2021.07.23-09.51.25:276][  0]TimingProfiler: OnSessionChanged
+[2021.07.23-09.51.25:276][  0]LoadingProfiler: Initialize
+[2021.07.23-09.51.25:276][  0]LoadingProfiler: OnSessionChanged
+[2021.07.23-09.51.25:276][  0]NetworkingProfiler: Initialize
+[2021.07.23-09.51.25:277][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.23-09.51.25:277][  0]MemoryProfiler: Initialize
+[2021.07.23-09.51.25:277][  0]MemoryProfiler: OnSessionChanged
+[2021.07.23-09.51.25:375][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.23-09.51.25:375][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.23-09.51.25:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/' took 0.04s
+[2021.07.23-09.51.25:583][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.23-09.51.25:585][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.594
+[2021.07.23-09.51.25:585][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.23-09.51.25:586][  0]LightingResults: New page: Lighting Build
+[2021.07.23-09.51.25:586][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-09.51.25:586][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-09.51.25:586][  0]MapCheck: New page: Map Check
+[2021.07.23-09.51.25:586][  0]LightingResults: New page: Lighting Build
+[2021.07.23-09.51.25:606][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.23-09.51.25:627][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\AI\BT_EnemyAI.uasset: Failed to load '/Script/SimpleShooter': Can't find file.
+[2021.07.23-09.51.25:628][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\AI\BT_EnemyAI.uasset: Failed to load '/Script/SimpleShooter': Can't find file.
+[2021.07.23-09.51.25:628][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\AI\BT_EnemyAI.uasset: Failed to load '/Script/SimpleShooter': Can't find file.
+[2021.07.23-09.51.25:628][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\AI\BP_ShooterAIController.uasset: Failed to load '/Script/SimpleShooter': Can't find file.
+[2021.07.23-09.51.25:628][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\AI\BP_ShooterAIController.uasset: Failed to load '/Script/SimpleShooter': Can't find file.
+[2021.07.23-09.51.25:932][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.07.23-09.51.25:932][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.07.23-09.51.25:933][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.07.23-09.51.26:203][  0]LogLinker: Warning: [AssetLog] C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.07.23-09.51.26:203][  0]LoadErrors: Failed to load /Game/TMSportPack/sport/textures/T_WoodLog_BC.T_WoodLog_BC Referenced by MI_WoodLog
+[2021.07.23-09.51.27:879][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-09.51.27:880][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-09.51.27:933][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.23-09.51.28:149][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.07.23-09.51.28:150][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.23-09.51.28:150][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,209ms to complete.
+[2021.07.23-09.51.28:150][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.565
+[2021.07.23-09.51.28:153][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.162
+[2021.07.23-09.51.28:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-09.51.28:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-09.51.28:264][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-09.51.28:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-09.51.28:281][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3607 classes and 861 folders.
+[2021.07.23-09.51.28:283][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.23-09.51.28:284][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.23-09.51.28:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-09.51.28:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.07.23-09.51.28:284][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.23-09.51.28:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.23-09.51.28:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.23-09.51.28:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-09.51.28:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.23-09.51.28:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.07.23-09.51.28:286][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.23-09.51.28:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.23-09.51.28:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.23-09.51.28:286][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.23-09.51.28:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.23-09.51.28:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.23-09.51.28:287][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.23-09.51.28:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.23-09.51.28:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.07.23-09.51.28:287][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.23-09.51.28:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.23-09.51.28:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.07.23-09.51.28:288][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.23-09.51.28:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.23-09.51.28:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.07.23-09.51.28:288][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.23-09.51.28:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.23-09.51.28:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.23-09.51.28:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-09.51.28:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.23-09.51.28:289][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.23-09.51.28:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.23-09.51.28:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.07.23-09.51.28:290][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.23-09.51.28:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.23-09.51.28:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.07.23-09.51.28:291][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.23-09.51.28:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-09.51.28:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.23-09.51.28:291][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.23-09.51.28:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.23-09.51.28:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.07.23-09.51.28:292][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.23-09.51.28:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.23-09.51.28:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-09.51.28:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-09.51.28:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.23-09.51.28:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.23-09.51.28:294][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.23-09.51.28:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.23-09.51.28:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.23-09.51.28:294][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.23-09.51.28:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.23-09.51.28:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.07.23-09.51.28:295][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.23-09.51.28:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.23-09.51.28:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.07.23-09.51.28:295][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.23-09.51.28:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.23-09.51.28:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.23-09.51.28:296][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.23-09.51.28:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.23-09.51.28:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.23-09.51.28:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.07.23-09.51.28:330][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.23-09.51.28:331][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.07.23-09.51.28:499][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.23-09.51.28:500][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.23-09.51.28:505][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.23-09.51.28:605][  0]LogRenderer: Reallocating scene render targets to support 1252x592 Format 10 NumSamples 1 (Frame:1).
+[2021.07.23-09.51.28:654][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.23-09.51.28:692][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.23-09.51.28:692][  0]LogLoad: (Engine Initialization) Total time: 7.70 seconds
+[2021.07.23-09.51.28:692][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.23-09.51.28:692][  0]LogInit: First time updating LLM stats...
+[2021.07.23-09.51.28:815][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.23-09.51.28:847][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.23-09.51.28:874][  1]LogAssetRegistry: Asset discovery search completed in 5.5340 seconds
+[2021.07.23-09.51.28:875][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.07.23-09.52.03:951][580]LogSlate: Window 'Message Log' being destroyed
+[2021.07.23-09.52.03:954][580]LogSlate: Window 'Message Log' being destroyed
+[2021.07.23-09.52.11:163][392]Candidate modules for hot reload:
+[2021.07.23-09.52.11:163][392]  ProjektUnreal
+[2021.07.23-09.52.11:163][392]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,1200 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-09.52.11:165][392]Warning: Starting HotReload took  0.0s.
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: New page: Compilation - 23 lip 2021, 13:52:12
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.07.23-09.52.12:469][492]CompilerResultsLog:   [1/3] UE4Editor-ProjektUnreal-1200.lib
+[2021.07.23-09.52.12:469][492]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-1200.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-1200.exp
+[2021.07.23-09.52.12:469][492]CompilerResultsLog:   [2/3] UE4Editor-ProjektUnreal-1200.dll
+[2021.07.23-09.52.12:469][492]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-1200.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-1200.suppressed.exp
+[2021.07.23-09.52.12:469][492]CompilerResultsLog:   [3/3] ProjektUnrealEditor.target
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: Total time in Parallel executor: 0,76 seconds
+[2021.07.23-09.52.12:469][492]CompilerResultsLog: Total execution time: 1,23 seconds
+[2021.07.23-09.52.12:469][492]LogMainFrame: MainFrame: Module compiling took 1.311 seconds
+[2021.07.23-09.52.12:499][492]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 6 classes and 2 folders.
+[2021.07.23-09.52.12:501][492]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-09.52.12:539][492]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3607 classes and 861 folders.
+[2021.07.23-09.52.12:539][492]Display: HotReload took  1.4s.
+[2021.07.23-09.53.35:093][906]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{004ecb04-f928-4814-8455-3d9582b17905}.
+[2021.07.23-09.53.35:093][906]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.23-09.53.35:132][906]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-09.53.35:132][906]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-09.55.37:584][758]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.23-09.55.37:592][758]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.07.23-09.55.37:642][758]LogAIGraph: Error: BTTask_ClearBlackboardValue class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_EnemyAI.BT_EnemyAI:Behavior Tree.BehaviorTreeGraphNode_Task_9
+[2021.07.23-09.55.37:668][758]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.23-09.55.46:320][791]LogAIGraph: Error: BTTask_ClearBlackboardValue class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_EnemyAI.BT_EnemyAI:Behavior Tree.BehaviorTreeGraphNode_Task_9
+[2021.07.23-09.57.06:140][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.07.23-09.57.06:149][408]LogSavePackage: Moving '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/BT_EnemyAI3410383642753DF32B16288CA9D6DECA.tmp' to '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/AI/BT_EnemyAI.uasset'
+[2021.07.23-09.57.06:161][408]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.07.23-09.57.06:161][408]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.07.23-09.58.44:568][451]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:00EC
+[2021.07.23-09.58.44:568][451]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:017C
+[2021.07.23-09.58.44:568][451]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterCharacter_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterCharacter_C_0
+	Function /Game/ABP_ShooterCharacter.ABP_ShooterCharacter_C:ExecuteUbergraph_ABP_ShooterCharacter:01AE
+[2021.07.23-09.59.25:577][338]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" -game -rocket -progress
+[2021.07.23-09.59.25:880][338]Discovering modules, targets and source code for project...
+[2021.07.23-09.59.27:287][338]Binding IntelliSense data...
+[2021.07.23-09.59.29:403][338]Binding IntelliSense data... 100%
+[2021.07.23-09.59.29:403][338]Writing project files...
+[2021.07.23-09.59.33:729][338]Writing project files... 100%
+[2021.07.23-09.59.33:953][338]Candidate modules for hot reload:
+[2021.07.23-09.59.33:953][338]  ProjektUnreal
+[2021.07.23-09.59.33:953][338]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,2211 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: New page: Compilation - 23 lip 2021, 13:59:42
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Creating makefile for ProjektUnrealEditor (no existing makefile)
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Parsing headers for ProjektUnrealEditor
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\ProjektUnreal.uproject" "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\ProjektUnrealEditor\Development\ProjektUnrealEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Tomasz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Reflection code generated for ProjektUnrealEditor in 3,1209004 seconds
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   [1/6] ProjektUnreal.init.gen.cpp
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   [2/6] BTTask_Shoot.cpp
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   [3/6] BTTask_Shoot.gen.cpp
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   [4/6] UE4Editor-ProjektUnreal-2211.lib
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-2211.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-2211.exp
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   [5/6] UE4Editor-ProjektUnreal-2211.dll
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-2211.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-2211.suppressed.exp
+[2021.07.23-09.59.42:431][338]CompilerResultsLog:   [6/6] ProjektUnrealEditor.target
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Total time in Parallel executor: 3,72 seconds
+[2021.07.23-09.59.42:431][338]CompilerResultsLog: Total execution time: 8,39 seconds
+[2021.07.23-09.59.42:431][338]LogMainFrame: MainFrame: Module compiling took 8.481 seconds
+[2021.07.23-09.59.42:452][338]LogClass: Could not find existing class BTTask_Shoot in package /Script/ProjektUnreal for HotReload, assuming new class
+[2021.07.23-09.59.42:460][338]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 7 classes and 2 folders.
+[2021.07.23-09.59.42:461][338]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-09.59.42:491][338]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-09.59.42:491][338]Display: HotReload took  8.5s.
+[2021.07.23-09.59.42:491][338]Warning: HotReload operation took  8.5s.
+[2021.07.23-09.59.42:936][338]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Source/ProjektUnreal/BTTask_Shoot.h'
+[2021.07.23-09.59.42:946][338]LogVSAccessor: Warning: Couldn't open file 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Source/ProjektUnreal/BTTask_Shoot.cpp'.
+[2021.07.23-09.59.42:951][338]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.07.23-09.59.42:961][338]LogHotReload: New module detected: UE4Editor-ProjektUnreal-2211.dll
+[2021.07.23-09.59.42:988][339]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.23-09.59.43:023][339]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.07.23-09.59.43:024][339]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.23-09.59.43:035][339]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-09.59.43:037][339]Display: HotReload took  0.1s.
+[2021.07.23-10.06.53:778][476]Candidate modules for hot reload:
+[2021.07.23-10.06.53:778][476]  ProjektUnreal
+[2021.07.23-10.06.53:778][476]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,441 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.06.53:779][476]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:06:59
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: Parsing headers for ProjektUnrealEditor
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\ProjektUnreal.uproject" "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\ProjektUnrealEditor\Development\ProjektUnrealEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Tomasz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: Reflection code generated for ProjektUnrealEditor in 3,1837995 seconds
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   [1/6] ProjektUnreal.init.gen.cpp
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   [2/6] BTTask_Shoot.gen.cpp
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2079: "UBTTask_Shoot" u?ywa niezdefiniowanego class "SIMPLESHOOTER_API"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2143: b??d sk?adniowy: brakuje ";" przed ":"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: ":"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: "public"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(14) : error C2143: b??d sk?adniowy: brakuje ";" przed "{"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(14) : error C2447: "{": brak nag??wka funkcji (stary styl formalnej listy?)
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(21) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(26) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(26) : error C2672: "StaticClass": nie znaleziono zgodnej przeci??onej funkcji
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(26) : error C2783: "UClass *StaticClass(void)": nie mo?e wywnioskowa? argumentu szablon dla "ClassType"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: zobacz deklaracj? "StaticClass"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(49) : error C2923: "TCppClassTypeTraits": "UBTTask_Shoot" nie jest prawid?owy argument typu szablon dla parametru "CPPCLASS"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(49) : error C2955: "TCppClassTypeTraits": u?ycie klasy klasa szablon wymaga listy argument?w szablon
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2453): note: zobacz deklaracj? "TCppClassTypeTraits"
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(49) : error C4800: Niejawna konwersja z warto?ci "TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>" na warto?? logiczn?. Mo?liwa utrata informacji
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(50): note: rozwa? u?ycie jawnego rzutowania lub por?wnania z elementem 0 w celu unikni?cia tego ostrze?enia
+[2021.07.23-10.06.59:740][ 73]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2456): note: zobacz deklaracj? "TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(50): warning C4305: "inicjowanie": obci?cie z "TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>" do "bool"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(52) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(52) : error C2440: "inicjowanie": nie mo?na konwertowa? z "overloaded-function" na "UClass *(__cdecl *)(void)"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(52): note: ?adna z funkcji o tej nazwie w zakresie nie jest zgodna z typem docelowym
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2923: "TClassCompiledInDefer": "UBTTask_Shoot" nie jest prawid?owy argument typu szablon dla parametru "TClass"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2514: "TClassCompiledInDefer": nie mo?na skonstruowa? szablonu klasy
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(291): note: zobacz deklaracj? "TClassCompiledInDefer"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C3861: "StaticPackage": identyfikatora nie odnaleziono
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2065: "StaticClassFlags": niezadeklarowany identyfikator
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2061: b??d sk?adniowy: identyfikator "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(77) : error C2912: jawna specjalizacja "UClass *StaticClass<UBTTask_Shoot>(void)" nie jest specjalizacj? szablonu funkcji
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(78) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(78) : error C2672: "StaticClass": nie znaleziono zgodnej przeci??onej funkcji
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(78) : error C2783: "UClass *StaticClass(void)": nie mo?e wywnioskowa? argumentu szablon dla "ClassType"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: zobacz deklaracj? "StaticClass"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(80) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(80) : error C2664: "FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))": nie mo?na dokona? konwersji argumentu 2 z "UClass *(__cdecl *)(void)" do "UClass *(__cdecl *)(void)"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:           with
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:           [
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:               KeyType=FName,
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:               ValueType=FName
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:           ]
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(80): note: ?adna z funkcji o tej nazwie w zakresie nie jest zgodna z typem docelowym
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: zobacz deklaracj? "FCompiledInDefer::FCompiledInDefer"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C4430: brak specyfikatora typu - za?o?ono, ?e int. Uwaga: C++ nie obs?uguje domy?lnie typu int
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C2550: "{ctor}": listy inicjator?w konstruktora s? dozwolone tylko dla definicji konstruktora
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C4508: "{ctor}": funkcja powinna zwr?ci? warto??; za?o?ono typ zwracany "void"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   [3/6] BTTask_Shoot.cpp
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2079: "UBTTask_Shoot" u?ywa niezdefiniowanego class "SIMPLESHOOTER_API"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2143: b??d sk?adniowy: brakuje ";" przed ":"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: ":"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: "public"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(14) : error C2143: b??d sk?adniowy: brakuje ";" przed "{"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(14) : error C2447: "{": brak nag??wka funkcji (stary styl formalnej listy?)
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(8) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(9) : error C4430: brak specyfikatora typu - za?o?ono, ?e int. Uwaga: C++ nie obs?uguje domy?lnie typu int
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(10) : error C2065: "NodeName": niezadeklarowany identyfikator
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(11) : error C4508: "{ctor}": funkcja powinna zwr?ci? warto??; za?o?ono typ zwracany "void"
+[2021.07.23-10.06.59:741][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(13) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.06.59:742][ 73]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.06.59:742][ 73]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(15) : error C2653: "Super": nie jest nazw? klasa lub nazw? przestrzeni nazw
+[2021.07.23-10.06.59:742][ 73]LogMainFrame: MainFrame: Module compiling took 5.967 seconds
+[2021.07.23-10.06.59:745][ 73]Warning: HotReload failed, recompile failed
+[2021.07.23-10.07.12:919][408]LogSlate: Window 'Message Log' being destroyed
+[2021.07.23-10.07.12:931][408]LogSlate: Window 'Message Log' being destroyed
+[2021.07.23-10.10.55:257][180]Candidate modules for hot reload:
+[2021.07.23-10.10.55:257][180]  ProjektUnreal
+[2021.07.23-10.10.55:257][180]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,1004 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.10.55:258][180]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.10.56:843][345]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:10:56
+[2021.07.23-10.10.56:844][345]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.10.56:844][345]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.10.56:844][345]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.10.56:844][345]CompilerResultsLog: Building 5 actions with 16 processes...
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   [1/5] BTTask_Shoot.gen.cpp
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2079: "UBTTask_Shoot" u?ywa niezdefiniowanego class "SIMPLESHOOTER_API"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2143: b??d sk?adniowy: brakuje ";" przed ":"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: ":"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: "public"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(14) : error C2143: b??d sk?adniowy: brakuje ";" przed "{"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(14) : error C2447: "{": brak nag??wka funkcji (stary styl formalnej listy?)
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(21) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(26) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(26) : error C2672: "StaticClass": nie znaleziono zgodnej przeci??onej funkcji
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(26) : error C2783: "UClass *StaticClass(void)": nie mo?e wywnioskowa? argumentu szablon dla "ClassType"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: zobacz deklaracj? "StaticClass"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(49) : error C2923: "TCppClassTypeTraits": "UBTTask_Shoot" nie jest prawid?owy argument typu szablon dla parametru "CPPCLASS"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(49) : error C2955: "TCppClassTypeTraits": u?ycie klasy klasa szablon wymaga listy argument?w szablon
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2453): note: zobacz deklaracj? "TCppClassTypeTraits"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(49) : error C4800: Niejawna konwersja z warto?ci "TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>" na warto?? logiczn?. Mo?liwa utrata informacji
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(50): note: rozwa? u?ycie jawnego rzutowania lub por?wnania z elementem 0 w celu unikni?cia tego ostrze?enia
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2456): note: zobacz deklaracj? "TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(50): warning C4305: "inicjowanie": obci?cie z "TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>" do "bool"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(52) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(52) : error C2440: "inicjowanie": nie mo?na konwertowa? z "overloaded-function" na "UClass *(__cdecl *)(void)"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(52): note: ?adna z funkcji o tej nazwie w zakresie nie jest zgodna z typem docelowym
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2923: "TClassCompiledInDefer": "UBTTask_Shoot" nie jest prawid?owy argument typu szablon dla parametru "TClass"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal/BTTask_Shoot.h(13): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2514: "TClassCompiledInDefer": nie mo?na skonstruowa? szablonu klasy
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(291): note: zobacz deklaracj? "TClassCompiledInDefer"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C3861: "StaticPackage": identyfikatora nie odnaleziono
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2065: "StaticClassFlags": niezadeklarowany identyfikator
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(75) : error C2061: b??d sk?adniowy: identyfikator "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(77) : error C2912: jawna specjalizacja "UClass *StaticClass<UBTTask_Shoot>(void)" nie jest specjalizacj? szablonu funkcji
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(78) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(78) : error C2672: "StaticClass": nie znaleziono zgodnej przeci??onej funkcji
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(78) : error C2783: "UClass *StaticClass(void)": nie mo?e wywnioskowa? argumentu szablon dla "ClassType"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: zobacz deklaracj? "StaticClass"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(80) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(80) : error C2664: "FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))": nie mo?na dokona? konwersji argumentu 2 z "UClass *(__cdecl *)(void)" do "UClass *(__cdecl *)(void)"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:           with
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:           [
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:               KeyType=FName,
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:               ValueType=FName
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:           ]
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(80): note: ?adna z funkcji o tej nazwie w zakresie nie jest zgodna z typem docelowym
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: zobacz deklaracj? "FCompiledInDefer::FCompiledInDefer"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C4430: brak specyfikatora typu - za?o?ono, ?e int. Uwaga: C++ nie obs?uguje domy?lnie typu int
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C2550: "{ctor}": listy inicjator?w konstruktora s? dozwolone tylko dla definicji konstruktora
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.gen.cpp(81) : error C4508: "{ctor}": funkcja powinna zwr?ci? warto??; za?o?ono typ zwracany "void"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:   [2/5] BTTask_Shoot.cpp
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2079: "UBTTask_Shoot" u?ywa niezdefiniowanego class "SIMPLESHOOTER_API"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2143: b??d sk?adniowy: brakuje ";" przed ":"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: ":"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(13) : error C2059: b??d sk?adniowy: "public"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(14) : error C2143: b??d sk?adniowy: brakuje ";" przed "{"
+[2021.07.23-10.10.56:844][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.h(14) : error C2447: "{": brak nag??wka funkcji (stary styl formalnej listy?)
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(8) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(9) : error C4430: brak specyfikatora typu - za?o?ono, ?e int. Uwaga: C++ nie obs?uguje domy?lnie typu int
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(10) : error C2065: "NodeName": niezadeklarowany identyfikator
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(11) : error C4508: "{ctor}": funkcja powinna zwr?ci? warto??; za?o?ono typ zwracany "void"
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(13) : error C2027: wykorzystanie niezdefiniowanego przez u?ytkownika typu "UBTTask_Shoot"
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:   C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Inc\ProjektUnreal\BTTask_Shoot.generated.h(87): note: zobacz deklaracj? "UBTTask_Shoot"
+[2021.07.23-10.10.56:845][345]CompilerResultsLog:    C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\BTTask_Shoot.cpp(15) : error C2653: "Super": nie jest nazw? klasa lub nazw? przestrzeni nazw
+[2021.07.23-10.10.56:845][345]LogMainFrame: MainFrame: Module compiling took 1.591 seconds
+[2021.07.23-10.10.56:845][345]Warning: HotReload failed, recompile failed
+[2021.07.23-10.12.21:520][350]LogSlate: Window 'Message Log' being destroyed
+[2021.07.23-10.12.21:524][350]LogSlate: Window 'Message Log' being destroyed
+[2021.07.23-10.12.22:101][417]Candidate modules for hot reload:
+[2021.07.23-10.12.22:101][417]  ProjektUnreal
+[2021.07.23-10.12.22:101][417]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,4958 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.12.22:102][417]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:12:28
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Parsing headers for ProjektUnrealEditor
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\ProjektUnreal.uproject" "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\ProjektUnrealEditor\Development\ProjektUnrealEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Tomasz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Reflection code generated for ProjektUnrealEditor in 3,1548331 seconds
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Building 5 actions with 16 processes...
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:   [1/5] BTTask_Shoot.gen.cpp
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:   [2/5] BTTask_Shoot.cpp
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:   [3/5] UE4Editor-ProjektUnreal-4958.lib
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4958.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4958.exp
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:   [4/5] UE4Editor-ProjektUnreal-4958.dll
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4958.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4958.suppressed.exp
+[2021.07.23-10.12.28:107][908]CompilerResultsLog:   [5/5] ProjektUnrealEditor.target
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Total time in Parallel executor: 2,22 seconds
+[2021.07.23-10.12.28:107][908]CompilerResultsLog: Total execution time: 5,94 seconds
+[2021.07.23-10.12.28:107][908]LogMainFrame: MainFrame: Module compiling took 6.009 seconds
+[2021.07.23-10.12.28:126][908]LogClass: Could not find existing class BTTask_Shoot in package /Script/ProjektUnreal for HotReload, assuming new class
+[2021.07.23-10.12.28:130][908]LogHotReload: Re-instancing BTTask_Shoot after hot-reload.
+[2021.07.23-10.12.28:140][908]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 7 classes and 2 folders.
+[2021.07.23-10.12.28:141][908]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-10.12.28:171][908]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-10.12.28:171][908]Display: HotReload took  6.1s.
+[2021.07.23-10.12.29:581][ 37]Candidate modules for hot reload:
+[2021.07.23-10.12.29:581][ 37]  ProjektUnreal
+[2021.07.23-10.12.29:581][ 37]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,8926 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.12.29:582][ 37]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:12:30
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.07.23-10.12.30:875][132]CompilerResultsLog:   [1/3] UE4Editor-ProjektUnreal-8926.lib
+[2021.07.23-10.12.30:875][132]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-8926.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-8926.exp
+[2021.07.23-10.12.30:875][132]CompilerResultsLog:   [2/3] UE4Editor-ProjektUnreal-8926.dll
+[2021.07.23-10.12.30:875][132]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-8926.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-8926.suppressed.exp
+[2021.07.23-10.12.30:875][132]CompilerResultsLog:   [3/3] ProjektUnrealEditor.target
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: Total time in Parallel executor: 0,73 seconds
+[2021.07.23-10.12.30:875][132]CompilerResultsLog: Total execution time: 1,23 seconds
+[2021.07.23-10.12.30:875][132]LogMainFrame: MainFrame: Module compiling took 1.298 seconds
+[2021.07.23-10.12.30:903][132]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 7 classes and 2 folders.
+[2021.07.23-10.12.30:904][132]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-10.12.30:933][132]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-10.12.30:933][132]Display: HotReload took  1.4s.
+[2021.07.23-10.13.34:313][930]LogRenderer: Reallocating scene render targets to support 1260x592 Format 10 NumSamples 1 (Frame:13088).
+[2021.07.23-10.13.34:369][931]LogRenderer: Reallocating scene render targets to support 1268x592 Format 10 NumSamples 1 (Frame:13090).
+[2021.07.23-10.13.34:405][932]LogRenderer: Reallocating scene render targets to support 1288x592 Format 10 NumSamples 1 (Frame:13092).
+[2021.07.23-10.13.34:441][933]LogRenderer: Reallocating scene render targets to support 1292x592 Format 10 NumSamples 1 (Frame:13094).
+[2021.07.23-10.13.34:499][935]LogRenderer: Reallocating scene render targets to support 1296x592 Format 10 NumSamples 1 (Frame:13098).
+[2021.07.23-10.13.34:534][936]LogRenderer: Reallocating scene render targets to support 1300x592 Format 10 NumSamples 1 (Frame:13100).
+[2021.07.23-10.16.58:273][366]LogRenderer: Reallocating scene render targets to support 1304x592 Format 10 NumSamples 1 (Frame:36977).
+[2021.07.23-10.16.58:313][367]LogRenderer: Reallocating scene render targets to support 1312x592 Format 10 NumSamples 1 (Frame:36979).
+[2021.07.23-10.16.58:360][368]LogRenderer: Reallocating scene render targets to support 1324x592 Format 10 NumSamples 1 (Frame:36981).
+[2021.07.23-10.16.58:401][369]LogRenderer: Reallocating scene render targets to support 1328x592 Format 10 NumSamples 1 (Frame:36983).
+[2021.07.23-10.16.58:456][371]LogRenderer: Reallocating scene render targets to support 1332x592 Format 10 NumSamples 1 (Frame:36987).
+[2021.07.23-10.19.44:471][641]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Source/ProjektUnreal/ShooterCharacter.h'
+[2021.07.23-10.19.44:471][641]LogVSAccessor: Warning: Couldn't open file 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Source/ProjektUnreal/ShooterCharacter.cpp'.
+[2021.07.23-10.20.18:886][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.07.23-10.20.18:889][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.010
+[2021.07.23-10.20.18:890][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_EnemyAI] ([1] browsable assets)...
+[2021.07.23-10.20.18:890][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_EnemyAI]
+[2021.07.23-10.20.18:890][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Autosaves/Game/AI/BT_EnemyAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.07.23-10.20.18:892][456]LogSavePackage: Moving '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/BT_EnemyAI_Auto1330A236A452A87BE4003658AC91400ED.tmp' to '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/Autosaves/Game/AI/BT_EnemyAI_Auto1.uasset'
+[2021.07.23-10.20.18:893][456]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.07.23-10.23.12:404][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.07.23-10.23.12:407][111]LogSavePackage: Moving '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/BT_EnemyAI99CF20254DFD154251C110A0206913D1.tmp' to '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/AI/BT_EnemyAI.uasset'
+[2021.07.23-10.23.12:417][111]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.07.23-10.23.12:417][111]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.07.23-10.23.15:762][503]Candidate modules for hot reload:
+[2021.07.23-10.23.15:762][503]  ProjektUnreal
+[2021.07.23-10.23.15:762][503]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,3560 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.23.15:764][503]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:23:17
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.07.23-10.23.17:136][595]CompilerResultsLog:   [1/3] UE4Editor-ProjektUnreal-3560.lib
+[2021.07.23-10.23.17:136][595]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-3560.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-3560.exp
+[2021.07.23-10.23.17:136][595]CompilerResultsLog:   [2/3] UE4Editor-ProjektUnreal-3560.dll
+[2021.07.23-10.23.17:136][595]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-3560.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-3560.suppressed.exp
+[2021.07.23-10.23.17:136][595]CompilerResultsLog:   [3/3] ProjektUnrealEditor.target
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: Total time in Parallel executor: 0,80 seconds
+[2021.07.23-10.23.17:136][595]CompilerResultsLog: Total execution time: 1,30 seconds
+[2021.07.23-10.23.17:136][595]LogMainFrame: MainFrame: Module compiling took 1.376 seconds
+[2021.07.23-10.23.17:167][595]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 7 classes and 2 folders.
+[2021.07.23-10.23.17:168][595]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-10.23.17:200][595]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-10.23.17:200][595]Display: HotReload took  1.4s.
+[2021.07.23-10.23.20:479][782]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-10.23.20:492][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-10.23.20:492][782]PIE: New page: PIE session: ThirdPersonExampleMap (23 lip 2021, 14:23:20)
+[2021.07.23-10.23.20:494][782]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.23-10.23.20:496][782]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.23-10.23.20:497][782]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.23.20:627][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129433s)
+[2021.07.23-10.23.20:628][782]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-10.23.20:628][782]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2021.07.23-10.23.20:629][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.131906s)
+[2021.07.23-10.23.20:634][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.23-10.23.20:636][782]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-10.23.20:636][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-10.23.20:636][782]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-10.23.20:636][782]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-10.23.20:641][782]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-10.23.20:641][782]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-10.23.20:648][782]LogAudioMixer: Display: Using Audio Device Acer VG240Y (NVIDIA High Definition Audio)
+[2021.07.23-10.23.20:648][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-10.23.20:648][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-10.23.20:648][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-10.23.20:649][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-10.23.20:649][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-10.23.20:649][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-10.23.20:659][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-10.23.20:659][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-10.23.20:659][782]LogInit: FAudioDevice initialized.
+[2021.07.23-10.23.20:659][782]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-10.23.20:671][782]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.07.23-10.23.20:691][782]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.23-12.23.20
+[2021.07.23-10.23.20:704][782]LogWorld: Bringing up level for play took: 0.026013
+[2021.07.23-10.23.20:705][782]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.07.23-10.23.20:743][782]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.07.23-10.23.20:750][782]PIE: Server logged in
+[2021.07.23-10.23.20:752][782]PIE: Play in editor total start time 0,266 seconds.
+[2021.07.23-10.23.22:114][893]LogTemp: Warning: Pozostalo zycia: 90.000000
+[2021.07.23-10.23.22:157][896]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.07.23-10.23.22:185][899]LogTemp: Warning: Pozostalo zycia: 70.000000
+[2021.07.23-10.23.22:220][902]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.07.23-10.23.22:257][905]LogTemp: Warning: Pozostalo zycia: 90.000000
+[2021.07.23-10.23.22:298][908]LogTemp: Warning: Pozostalo zycia: 50.000000
+[2021.07.23-10.23.22:332][911]LogTemp: Warning: Pozostalo zycia: 40.000000
+[2021.07.23-10.23.22:371][914]LogTemp: Warning: Pozostalo zycia: 30.000000
+[2021.07.23-10.23.22:403][917]LogTemp: Warning: Pozostalo zycia: 20.000000
+[2021.07.23-10.23.22:435][920]LogTemp: Warning: Pozostalo zycia: 10.000000
+[2021.07.23-10.23.22:469][923]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:502][926]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:539][929]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:570][932]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:604][935]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:639][938]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:673][941]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:708][944]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:747][947]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:782][950]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:822][953]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:861][956]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:899][959]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:935][962]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.22:972][965]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:008][968]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:047][971]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:084][974]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:122][977]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:159][980]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:198][983]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:234][986]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:272][989]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:311][992]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:352][995]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:391][998]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:428][  1]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.23:493][  6]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.23.26:810][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.23.26:810][374]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.23.26:811][374]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-10.23.26:814][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.23.26:819][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.23-10.23.26:822][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.23.26:825][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.23-10.23.26:828][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.23.26:829][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.23.26:841][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.23.26:851][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.07.23-10.23.26:894][375]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.07.23-10.23.55:048][481]LogVSAccessor: Warning: Couldn't open file 'C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Source/ProjektUnreal/ShooterAIController.cpp'.
+[2021.07.23-10.25.37:841][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_EnemyAI" FILE="../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/AI/BT_EnemyAI.uasset" SILENT=true
+[2021.07.23-10.25.37:845][571]LogSavePackage: Moving '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Saved/BT_EnemyAIECFE108045522B677C52D696667855D0.tmp' to '../../../../../../Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/Content/AI/BT_EnemyAI.uasset'
+[2021.07.23-10.25.37:853][571]AssetCheck: New page: Asset Save: BT_EnemyAI
+[2021.07.23-10.25.37:853][571]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_EnemyAI.BT_EnemyAI
+[2021.07.23-10.25.48:844][509]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-10.25.48:852][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-10.25.48:852][509]PIE: New page: PIE session: ThirdPersonExampleMap (23 lip 2021, 14:25:48)
+[2021.07.23-10.25.48:885][509]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.25.48:989][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103866s)
+[2021.07.23-10.25.48:990][509]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-10.25.48:990][509]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2021.07.23-10.25.48:990][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.105076s)
+[2021.07.23-10.25.48:994][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.23-10.25.48:996][509]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-10.25.48:996][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-10.25.48:996][509]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-10.25.48:996][509]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-10.25.49:001][509]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-10.25.49:001][509]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-10.25.49:008][509]LogAudioMixer: Display: Using Audio Device Acer VG240Y (NVIDIA High Definition Audio)
+[2021.07.23-10.25.49:009][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-10.25.49:009][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-10.25.49:009][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-10.25.49:009][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-10.25.49:009][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-10.25.49:009][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-10.25.49:019][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-10.25.49:019][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-10.25.49:019][509]LogInit: FAudioDevice initialized.
+[2021.07.23-10.25.49:019][509]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-10.25.49:024][509]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.07.23-10.25.49:039][509]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.23-12.25.49
+[2021.07.23-10.25.49:039][509]LogWorld: Bringing up level for play took: 0.014913
+[2021.07.23-10.25.49:040][509]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.07.23-10.25.49:043][509]PIE: Server logged in
+[2021.07.23-10.25.49:044][509]PIE: Play in editor total start time 0,193 seconds.
+[2021.07.23-10.25.50:441][658]LogTemp: Warning: Pozostalo zycia: 90.000000
+[2021.07.23-10.25.51:450][779]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.07.23-10.25.52:458][900]LogTemp: Warning: Pozostalo zycia: 70.000000
+[2021.07.23-10.25.53:466][ 21]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.07.23-10.25.54:475][142]LogTemp: Warning: Pozostalo zycia: 50.000000
+[2021.07.23-10.25.55:058][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.25.55:058][209]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.25.55:058][209]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-10.25.55:061][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.25.55:066][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.23-10.25.55:069][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.25.55:074][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.23-10.25.55:074][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.25.55:075][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.25.55:088][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.25.55:092][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.23-10.25.55:138][211]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.07.23-10.27.50:870][595]Candidate modules for hot reload:
+[2021.07.23-10.27.50:870][595]  ProjektUnreal
+[2021.07.23-10.27.50:870][595]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,5073 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.27.50:872][595]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:27:54
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.07.23-10.27.54:033][888]CompilerResultsLog:   [1/4] ShooterAIController.cpp
+[2021.07.23-10.27.54:033][888]CompilerResultsLog:   [2/4] UE4Editor-ProjektUnreal-5073.lib
+[2021.07.23-10.27.54:033][888]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5073.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5073.exp
+[2021.07.23-10.27.54:033][888]CompilerResultsLog:   [3/4] UE4Editor-ProjektUnreal-5073.dll
+[2021.07.23-10.27.54:033][888]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5073.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5073.suppressed.exp
+[2021.07.23-10.27.54:033][888]CompilerResultsLog:   [4/4] ProjektUnrealEditor.target
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: Total time in Parallel executor: 2,56 seconds
+[2021.07.23-10.27.54:033][888]CompilerResultsLog: Total execution time: 3,08 seconds
+[2021.07.23-10.27.54:033][888]LogMainFrame: MainFrame: Module compiling took 3.169 seconds
+[2021.07.23-10.27.54:059][888]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 7 classes and 2 folders.
+[2021.07.23-10.27.54:061][888]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-10.27.54:089][888]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-10.27.54:090][888]Display: HotReload took  3.2s.
+[2021.07.23-10.27.55:488][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-10.27.55:496][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-10.27.55:496][ 22]PIE: New page: PIE session: ThirdPersonExampleMap (23 lip 2021, 14:27:55)
+[2021.07.23-10.27.55:524][ 22]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.27.55:628][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104772s)
+[2021.07.23-10.27.55:629][ 22]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-10.27.55:629][ 22]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2021.07.23-10.27.55:629][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.105896s)
+[2021.07.23-10.27.55:634][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.23-10.27.55:635][ 22]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-10.27.55:635][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-10.27.55:635][ 22]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-10.27.55:635][ 22]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-10.27.55:640][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-10.27.55:640][ 22]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-10.27.55:648][ 22]LogAudioMixer: Display: Using Audio Device Acer VG240Y (NVIDIA High Definition Audio)
+[2021.07.23-10.27.55:648][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-10.27.55:648][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-10.27.55:648][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-10.27.55:649][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-10.27.55:649][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-10.27.55:649][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-10.27.55:660][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-10.27.55:660][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-10.27.55:660][ 22]LogInit: FAudioDevice initialized.
+[2021.07.23-10.27.55:660][ 22]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-10.27.55:670][ 22]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.07.23-10.27.55:684][ 22]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.23-12.27.55
+[2021.07.23-10.27.55:685][ 22]LogWorld: Bringing up level for play took: 0.014613
+[2021.07.23-10.27.55:685][ 22]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.23-10.27.55:689][ 22]PIE: Server logged in
+[2021.07.23-10.27.55:690][ 22]PIE: Play in editor total start time 0,197 seconds.
+[2021.07.23-10.27.57:691][223]LogTemp: Warning: Pozostalo zycia: 90.000000
+[2021.07.23-10.27.58:708][328]LogTemp: Warning: Pozostalo zycia: 90.000000
+[2021.07.23-10.27.59:719][430]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.07.23-10.28.00:735][532]LogTemp: Warning: Pozostalo zycia: 70.000000
+[2021.07.23-10.28.01:064][563]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.07.23-10.28.01:330][595]LogTemp: Warning: Pozostalo zycia: 50.000000
+[2021.07.23-10.28.01:563][623]LogTemp: Warning: Pozostalo zycia: 40.000000
+[2021.07.23-10.28.01:746][645]LogTemp: Warning: Pozostalo zycia: 30.000000
+[2021.07.23-10.28.01:788][650]LogTemp: Warning: Pozostalo zycia: 20.000000
+[2021.07.23-10.28.02:005][676]LogTemp: Warning: Pozostalo zycia: 10.000000
+[2021.07.23-10.28.02:197][699]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.02:402][723]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.02:758][765]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.03:765][886]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.04:774][  7]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.05:791][129]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.06:799][250]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.07:808][371]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.15:767][326]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.16:775][447]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.17:789][568]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.18:796][689]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.19:806][810]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.20:822][932]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.21:839][ 54]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.22:855][176]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.23:872][298]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.24:889][420]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.25:897][541]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.31:524][216]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.07.23-10.28.31:966][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.28.31:966][265]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.28.31:967][265]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-10.28.31:969][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.28.31:977][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.23-10.28.31:979][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.28.31:985][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.23-10.28.31:985][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.28.31:986][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.28.31:997][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.28.32:002][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.23-10.28.32:055][267]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.23-10.31.06:817][ 76]Candidate modules for hot reload:
+[2021.07.23-10.31.06:817][ 76]  ProjektUnreal
+[2021.07.23-10.31.06:817][ 76]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,5883 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.31.06:819][ 76]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:31:12
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Parsing headers for ProjektUnrealEditor
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\ProjektUnreal.uproject" "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\ProjektUnrealEditor\Development\ProjektUnrealEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Tomasz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Reflection code generated for ProjektUnrealEditor in 3,0957975 seconds
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   [1/6] ProjektUnreal.init.gen.cpp
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   [2/6] ShooterAIController.gen.cpp
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   [3/6] ShooterAIController.cpp
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   [4/6] UE4Editor-ProjektUnreal-5883.lib
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5883.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5883.exp
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   [5/6] UE4Editor-ProjektUnreal-5883.dll
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5883.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-5883.suppressed.exp
+[2021.07.23-10.31.12:582][558]CompilerResultsLog:   [6/6] ProjektUnrealEditor.target
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Total time in Parallel executor: 2,09 seconds
+[2021.07.23-10.31.12:582][558]CompilerResultsLog: Total execution time: 5,71 seconds
+[2021.07.23-10.31.12:582][558]LogMainFrame: MainFrame: Module compiling took 5.768 seconds
+[2021.07.23-10.31.12:603][558]LogClass: Could not find existing class ShooterAIController in package /Script/ProjektUnreal for HotReload, assuming new class
+[2021.07.23-10.31.12:610][558]LogHotReload: Re-instancing ShooterAIController after hot-reload.
+[2021.07.23-10.31.12:619][558]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0002 seconds. Added 7 classes and 2 folders.
+[2021.07.23-10.31.12:620][558]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-10.31.12:648][558]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-10.31.12:648][558]Display: HotReload took  5.8s.
+[2021.07.23-10.31.13:978][687]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-10.31.13:986][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-10.31.13:986][687]PIE: New page: PIE session: ThirdPersonExampleMap (23 lip 2021, 14:31:13)
+[2021.07.23-10.31.13:986][687]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.31.14:090][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104434s)
+[2021.07.23-10.31.14:091][687]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-10.31.14:091][687]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2021.07.23-10.31.14:091][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.105610s)
+[2021.07.23-10.31.14:096][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.07.23-10.31.14:097][687]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-10.31.14:097][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-10.31.14:097][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-10.31.14:098][687]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-10.31.14:098][687]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-10.31.14:102][687]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-10.31.14:102][687]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-10.31.14:109][687]LogAudioMixer: Display: Using Audio Device Acer VG240Y (NVIDIA High Definition Audio)
+[2021.07.23-10.31.14:109][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-10.31.14:109][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-10.31.14:109][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-10.31.14:110][687]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-10.31.14:110][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-10.31.14:110][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-10.31.14:120][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-10.31.14:120][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-10.31.14:120][687]LogInit: FAudioDevice initialized.
+[2021.07.23-10.31.14:120][687]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-10.31.14:130][687]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.07.23-10.31.14:144][687]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.23-12.31.14
+[2021.07.23-10.31.14:144][687]LogWorld: Bringing up level for play took: 0.013717
+[2021.07.23-10.31.14:145][687]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.07.23-10.31.14:148][687]PIE: Server logged in
+[2021.07.23-10.31.14:148][687]PIE: Play in editor total start time 0,165 seconds.
+[2021.07.23-10.31.18:085][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.31.18:085][ 83]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.31.18:086][ 83]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-10.31.18:088][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.31.18:095][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.23-10.31.18:098][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.31.18:105][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.23-10.31.18:106][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.31.18:106][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.31.18:118][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.31.18:122][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.23-10.31.18:168][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.07.23-10.31.30:841][282]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-10.31.30:849][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-10.31.30:849][282]PIE: New page: PIE session: ThirdPersonExampleMap (23 lip 2021, 14:31:30)
+[2021.07.23-10.31.30:883][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.31.30:991][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108780s)
+[2021.07.23-10.31.30:992][282]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-10.31.30:992][282]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2021.07.23-10.31.30:992][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.109974s)
+[2021.07.23-10.31.30:996][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.23-10.31.30:997][282]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.23-10.31.30:997][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-10.31.30:997][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-10.31.30:997][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-10.31.30:998][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-10.31.30:998][282]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-10.31.30:998][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-10.31.30:998][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-10.31.30:998][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-10.31.30:998][282]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-10.31.30:998][282]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-10.31.31:002][282]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-10.31.31:003][282]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-10.31.31:010][282]LogAudioMixer: Display: Using Audio Device Acer VG240Y (NVIDIA High Definition Audio)
+[2021.07.23-10.31.31:010][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-10.31.31:010][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-10.31.31:010][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-10.31.31:010][282]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-10.31.31:010][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-10.31.31:010][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-10.31.31:021][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-10.31.31:021][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-10.31.31:021][282]LogInit: FAudioDevice initialized.
+[2021.07.23-10.31.31:021][282]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-10.31.31:030][282]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.07.23-10.31.31:044][282]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.23-12.31.31
+[2021.07.23-10.31.31:044][282]LogWorld: Bringing up level for play took: 0.013656
+[2021.07.23-10.31.31:045][282]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.07.23-10.31.31:048][282]PIE: Server logged in
+[2021.07.23-10.31.31:048][282]PIE: Play in editor total start time 0,202 seconds.
+[2021.07.23-10.31.31:596][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.31.31:596][339]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.31.31:596][339]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.23-10.31.31:599][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.31.31:604][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.23-10.31.31:607][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.23-10.31.31:612][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.23-10.31.31:612][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.31.31:613][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.23-10.31.31:628][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.23-10.31.31:674][344]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.07.23-10.31.32:503][437]Candidate modules for hot reload:
+[2021.07.23-10.31.32:503][437]  ProjektUnreal
+[2021.07.23-10.31.32:503][437]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ProjektUnreal,4239 ProjektUnrealEditor Win64 Development -Project="C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject" "C:/Users/Tomasz/Desktop/LumberJack-OG/ProjektUnreal/ProjektUnreal.uproject"  -IgnoreJunk]
+[2021.07.23-10.31.32:504][437]Warning: Starting HotReload took  0.0s.
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: New page: Compilation - 23 lip 2021, 14:31:38
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tomasz\Desktop\LumberJack-OG).
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: Parsing headers for ProjektUnrealEditor
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\ProjektUnreal.uproject" "C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\ProjektUnrealEditor\Development\ProjektUnrealEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Tomasz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: Reflection code generated for ProjektUnrealEditor in 3,3957246 seconds
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: Building ProjektUnrealEditor...
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog:   [1/6] ProjektUnreal.init.gen.cpp
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog:   [2/6] ShooterAIController.gen.cpp
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog:   [3/6] ShooterAIController.cpp
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog:   [4/6] UE4Editor-ProjektUnreal-4239.lib
+[2021.07.23-10.31.38:675][ 39]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4239.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4239.exp
+[2021.07.23-10.31.38:676][ 39]CompilerResultsLog:   [5/6] UE4Editor-ProjektUnreal-4239.dll
+[2021.07.23-10.31.38:676][ 39]CompilerResultsLog:      Trwa tworzenie biblioteki C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4239.suppressed.lib i obiektu C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Intermediate\Build\Win64\UE4Editor\Development\ProjektUnreal\UE4Editor-ProjektUnreal-4239.suppressed.exp
+[2021.07.23-10.31.38:676][ 39]CompilerResultsLog:   [6/6] ProjektUnrealEditor.target
+[2021.07.23-10.31.38:676][ 39]CompilerResultsLog: Total time in Parallel executor: 2,09 seconds
+[2021.07.23-10.31.38:676][ 39]CompilerResultsLog: Total execution time: 6,11 seconds
+[2021.07.23-10.31.38:676][ 39]LogMainFrame: MainFrame: Module compiling took 6.176 seconds
+[2021.07.23-10.31.38:698][ 39]LogClass: Could not find existing class ShooterAIController in package /Script/ProjektUnreal for HotReload, assuming new class
+[2021.07.23-10.31.38:705][ 39]LogHotReload: Re-instancing ShooterAIController after hot-reload.
+[2021.07.23-10.31.38:713][ 39]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ProjektUnreal' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.07.23-10.31.38:714][ 39]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.23-10.31.38:744][ 39]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3608 classes and 861 folders.
+[2021.07.23-10.31.38:744][ 39]Display: HotReload took  6.3s.
+[2021.07.23-10.31.40:273][191]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.23-10.31.40:280][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.23-10.31.40:280][191]PIE: New page: PIE session: ThirdPersonExampleMap (23 lip 2021, 14:31:40)
+[2021.07.23-10.31.40:280][191]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.07.23-10.31.40:391][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111135s)
+[2021.07.23-10.31.40:392][191]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.23-10.31.40:393][191]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2021.07.23-10.31.40:393][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.112648s)
+[2021.07.23-10.31.40:397][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.07.23-10.31.40:399][191]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.23-10.31.40:399][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.23-10.31.40:399][191]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.23-10.31.40:399][191]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.23-10.31.40:404][191]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.23-10.31.40:404][191]LogAudioMixer: Display: 1: FrontRight
+[2021.07.23-10.31.40:412][191]LogAudioMixer: Display: Using Audio Device Acer VG240Y (NVIDIA High Definition Audio)
+[2021.07.23-10.31.40:412][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.23-10.31.40:412][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.23-10.31.40:412][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.23-10.31.40:412][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.23-10.31.40:412][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.23-10.31.40:412][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.23-10.31.40:423][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.23-10.31.40:423][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.23-10.31.40:423][191]LogInit: FAudioDevice initialized.
+[2021.07.23-10.31.40:423][191]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2021.07.23-10.31.40:431][191]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2021.07.23-10.31.40:446][191]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.07.23-12.31.40
+[2021.07.23-10.31.40:447][191]LogWorld: Bringing up level for play took: 0.014681
+[2021.07.23-10.31.40:447][191]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.07.23-10.31.40:451][191]PIE: Server logged in
+[2021.07.23-10.31.40:451][191]PIE: Play in editor total start time 0,173 seconds.
+[2021.07.23-10.31.42:761][191]LogWindows: Error: === Critical error: ===
+[2021.07.23-10.31.42:761][191]LogWindows: Error: 
+[2021.07.23-10.31.42:761][191]LogWindows: Error: Fatal error!
+[2021.07.23-10.31.42:761][191]LogWindows: Error: 
+[2021.07.23-10.31.42:762][191]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000000000000d0
+[2021.07.23-10.31.42:762][191]LogWindows: Error: 
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb38e0aaa0 UE4Editor-AIModule.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb15df7147 UE4Editor-ProjektUnreal-4239.dll!AShooterAIController::Tick() [C:\Users\Tomasz\Desktop\LumberJack-OG\ProjektUnreal\Source\ProjektUnreal\ShooterAIController.cpp:34]
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb526a9498 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb51d6f78d UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb52f5297e UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb52f5b56f UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb57aaecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb57aaf0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb57ac08fd UE4Editor-Core.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb52f78464 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb52f7edaa UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb5269ad8f UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb526a55f7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb4fbf9423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffb505150e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ff643169bc2 UE4Editor.exe!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ff64318117c UE4Editor.exe!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ff64318125a UE4Editor.exe!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ff6431952bd UE4Editor.exe!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ff643197fea UE4Editor.exe!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffbb24d7034 KERNEL32.DLL!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: [Callstack] 0x00007ffbb3c22651 ntdll.dll!UnknownFunction []
+[2021.07.23-10.31.42:762][191]LogWindows: Error: 
+[2021.07.23-10.31.42:768][191]LogExit: Executing StaticShutdownAfterError
+[2021.07.23-10.31.42:855][191]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.07.23-10.31.42:855][191]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.07.23-10.31.42:866][191]Log file closed, 07/23/21 12:31:42
