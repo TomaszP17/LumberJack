@@ -10,8 +10,8 @@ UCLASS()
 class PROJEKTUNREAL_API AGun : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	// Sets default values for this actor's properties
 	AGun();
 
@@ -21,22 +21,37 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 private:
 	UPROPERTY(VisibleAnywhere)
 		USceneComponent* Root;
+
 	UPROPERTY(VisibleAnywhere)
 		USkeletalMeshComponent* Mesh;
+
 	UPROPERTY(EditAnywhere)
-		UParticleSystem *MuzzleFlash;
+		UParticleSystem* MuzzleFlash;
+
 	UPROPERTY(EditAnywhere)
-		UParticleSystem *ImpactEffect;
-	UPROPERTY(Editanywhere)
+		USoundBase* MuzzleSound;
+	UPROPERTY(EditAnywhere)
+		USoundBase* ImpactSound;
+
+	UPROPERTY(EditAnywhere)
+		UParticleSystem* ImpactEffect;
+
+	UPROPERTY(EditAnywhere)
 		float MaxRange = 1000;
 
-	UPROPERTY(Editanywhere)
-		float Damage = 50;
+	UPROPERTY(EditAnywhere)
+		float Damage = 10;
+
+	bool GunTrace(FHitResult& Hit, FVector& ShotDirection);
+
+	AController* GetOwnerController() const;
+
+	
 };

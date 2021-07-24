@@ -61,7 +61,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AShooterAIController); \
 
 
 #define ProjektUnreal_Source_ProjektUnreal_ShooterAIController_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__AIBehaviour() { return STRUCT_OFFSET(AShooterAIController, AIBehaviour); }
+	FORCEINLINE static uint32 __PPO__AIBehaviour() { return STRUCT_OFFSET(AShooterAIController, AIBehaviour); } \
+	FORCEINLINE static uint32 __PPO__WinScreenClass() { return STRUCT_OFFSET(AShooterAIController, WinScreenClass); }
 
 
 #define ProjektUnreal_Source_ProjektUnreal_ShooterAIController_h_9_PROLOG
