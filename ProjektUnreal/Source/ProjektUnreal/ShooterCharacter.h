@@ -25,6 +25,8 @@ public:
 	UFUNCTION(BlueprintPure)
 		bool IsDead() const; //nie chcemy aby zmienialo wartosci
 
+	UFUNCTION(BlueprintPure)
+		float GetHealthPercent() const;
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 

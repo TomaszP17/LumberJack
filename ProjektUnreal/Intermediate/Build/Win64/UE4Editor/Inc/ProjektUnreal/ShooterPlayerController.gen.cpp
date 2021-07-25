@@ -49,6 +49,10 @@ void EmptyLinkFunctionForGeneratedCodeShooterPlayerController() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_RestartDelay_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_RestartDelay;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_HUD_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_HUD;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -93,11 +97,20 @@ void EmptyLinkFunctionForGeneratedCodeShooterPlayerController() {}
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_RestartDelay = { "RestartDelay", nullptr, (EPropertyFlags)0x0040000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShooterPlayerController, RestartDelay), METADATA_PARAMS(Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_RestartDelay_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_RestartDelay_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_HUD_MetaData[] = {
+		{ "Category", "ShooterPlayerController" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "ShooterPlayerController.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_HUD = { "HUD", nullptr, (EPropertyFlags)0x0040000000080009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShooterPlayerController, HUD), Z_Construct_UClass_UUserWidget_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_HUD_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_HUD_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AShooterPlayerController_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_LoseScreenClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_WinScreenClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_HUDClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_RestartDelay,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShooterPlayerController_Statics::NewProp_HUD,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AShooterPlayerController_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AShooterPlayerController>::IsAbstract,
@@ -126,7 +139,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterPlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AShooterPlayerController, 2897943538);
+	IMPLEMENT_CLASS(AShooterPlayerController, 1651379312);
 	template<> PROJEKTUNREAL_API UClass* StaticClass<AShooterPlayerController>()
 	{
 		return AShooterPlayerController::StaticClass();

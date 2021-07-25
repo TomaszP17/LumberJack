@@ -20,6 +20,13 @@ void EmptyLinkFunctionForGeneratedCodeShooterCharacter() {}
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	PROJEKTUNREAL_API UClass* Z_Construct_UClass_AGun_NoRegister();
 // End Cross Module References
+	DEFINE_FUNCTION(AShooterCharacter::execGetHealthPercent)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(float*)Z_Param__Result=P_THIS->GetHealthPercent();
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(AShooterCharacter::execIsDead)
 	{
 		P_FINISH;
@@ -31,9 +38,44 @@ void EmptyLinkFunctionForGeneratedCodeShooterCharacter() {}
 	{
 		UClass* Class = AShooterCharacter::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
+			{ "GetHealthPercent", &AShooterCharacter::execGetHealthPercent },
 			{ "IsDead", &AShooterCharacter::execIsDead },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics
+	{
+		struct ShooterCharacter_eventGetHealthPercent_Parms
+		{
+			float ReturnValue;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ShooterCharacter_eventGetHealthPercent_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "//nie chcemy aby zmienialo wartosci\n" },
+		{ "ModuleRelativePath", "ShooterCharacter.h" },
+		{ "ToolTip", "nie chcemy aby zmienialo wartosci" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AShooterCharacter, nullptr, "GetHealthPercent", nullptr, nullptr, sizeof(ShooterCharacter_eventGetHealthPercent_Parms), Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AShooterCharacter_GetHealthPercent()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AShooterCharacter_GetHealthPercent_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_AShooterCharacter_IsDead_Statics
 	{
@@ -112,6 +154,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterCharacter() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_ProjektUnreal,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AShooterCharacter_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_AShooterCharacter_GetHealthPercent, "GetHealthPercent" }, // 2509874557
 		{ &Z_Construct_UFunction_AShooterCharacter_IsDead, "IsDead" }, // 2615963491
 	};
 #if WITH_METADATA
@@ -189,7 +232,7 @@ void EmptyLinkFunctionForGeneratedCodeShooterCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AShooterCharacter, 1780328059);
+	IMPLEMENT_CLASS(AShooterCharacter, 812700942);
 	template<> PROJEKTUNREAL_API UClass* StaticClass<AShooterCharacter>()
 	{
 		return AShooterCharacter::StaticClass();

@@ -7,37 +7,38 @@
 
 void AShooterPlayerController::BeginPlay()
 {
-	Super::BeginPlay();
+    Super::BeginPlay();
 
-	UUserWidget* HUD = CreateWidget(this, HUDClass);
-	if (HUD != nullptr)
-	{
-		HUD->AddToViewport();
-	}
+    HUD = CreateWidget(this, HUDClass);
+    if (HUD != nullptr)
+    {
+        HUD->AddToViewport();
+    }
 }
 
 void AShooterPlayerController::GameHasEnded(class AActor* EndGameFocus, bool bIsWinner)
 {
-	Super::GameHasEnded(EndGameFocus, bIsWinner);
+    Super::GameHasEnded(EndGameFocus, bIsWinner);
 
-	HUD->RemoveFromViewport();
-	if (bIsWinner)
-	{
-		UUserWidget* WinScreen = CreateWidget(this, WinScreenClass);
-		if (WinScreen != nullptr)
-		{
-			WinScreen->AddToViewport();
-		}
-	}
-	else
-	{
-		UUserWidget* LoseScreen = CreateWidget(this, LoseScreenClass);
-		if (LoseScreen != nullptr)
-		{
-			LoseScreen->AddToViewport();
-		}
-	}
-	//UE_LOG(LogTemp, Warning, TEXT("Skonczylismy"));
-	GetWorldTimerManager().SetTimer(RestartTimer, this, &APlayerController::RestartLevel, RestartDelay);
+    HUD->RemoveFromViewport();
+    if (bIsWinner)
+    {
+        UUserWidget* WinScreen = CreateWidget(this, WinScreenClass);
+        if (WinScreen != nullptr)
+        {
+            WinScreen->AddToViewport();
+        }
+    }
+    else
+    {
+        UUserWidget* LoseScreen = CreateWidget(this, LoseScreenClass);
+        if (LoseScreen != nullptr)
+        {
+            LoseScreen->AddToViewport();
+        }
+    }
+
+    GetWorldTimerManager().SetTimer(RestartTimer, this, &APlayerController::RestartLevel, RestartDelay);
 }
+
 
