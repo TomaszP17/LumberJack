@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ProjektUnreal.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FE509F68-28DB-4C2D-90A1-4020CEECB156}</UniqueIdentifier>
+      <UniqueIdentifier>{E1F435CE-EE87-454B-AE36-CCEC66FAAE7D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ProjektUnreal.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\ProjektUnreal.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C667FD1C-45CA-418A-8246-6EAF2E615DC4}</UniqueIdentifier>
+      <UniqueIdentifier>{676D1A66-5C5E-4E93-B677-35B226FBD8F6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ProjektUnreal">
-      <UniqueIdentifier>{02BA66BE-5AB2-47EC-BDA8-84F227364541}</UniqueIdentifier>
+      <UniqueIdentifier>{3AE4A971-E7D4-45F2-BA9B-31E8458B89EA}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ProjektUnreal\BTService_PlayerLocation.cpp">
       <Filter>Source\ProjektUnreal</Filter>
@@ -67,12 +67,6 @@
       <Filter>Source\ProjektUnreal</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ProjektUnreal\KillEmAllGameMode.h">
-      <Filter>Source\ProjektUnreal</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\ProjektUnreal\MainMenuGameMode.cpp">
-      <Filter>Source\ProjektUnreal</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\ProjektUnreal\MainMenuGameMode.h">
       <Filter>Source\ProjektUnreal</Filter>
     </ClInclude>
     <None Include="..\..\Source\ProjektUnreal\ProjektUnreal.Build.cs">

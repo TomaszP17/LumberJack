@@ -44,7 +44,7 @@ private:
 		UParticleSystem* ImpactEffect;
 
 	UPROPERTY(EditAnywhere)
-		float MaxRange = 2000;
+		float MaxRange = 1000;
 
 	UPROPERTY(EditAnywhere)
 		float Damage = 10;
