@@ -1,0 +1,3 @@
+Lista znanych bugów których nie chce się teraz naprawiać, lub nie wiemy jak
+
+- Włączenie pauzy, quit to main menu. Brak sterowania po rozpoczęciug gry.

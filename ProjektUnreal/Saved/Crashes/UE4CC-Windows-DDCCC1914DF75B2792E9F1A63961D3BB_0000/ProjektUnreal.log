@@ -1,0 +1,1394 @@
+﻿Log file open, 08/10/21 13:54:29
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjektUnreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.559322
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/damia/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:        Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Nowy folder/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.10-11.54.31:566][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.10-11.54.31:566][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.10-11.54.31:567][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:567][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:885][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.10-11.54.31:885][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.10-11.54.31:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.10-11.54.31:887][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.10-11.54.31:889][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.10-11.54.31:889][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.10-11.54.31:891][  0]LogHAL: Display: Platform has ~ 6 GB [6324281344 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.10-11.54.31:891][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.10-11.54.31:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.10-11.54.31:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.10-11.54.31:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.10-11.54.31:893][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Scalability.ini]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.10-11.54.31:894][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.10-11.54.31:895][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.10-11.54.31:895][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.10-11.54.31:895][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.10-11.54.31:895][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Engine.ini]
+[2021.08.10-11.54.31:895][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/hd/LumberJack/ProjektUnreal/Saved/Config/Windows/Editor.ini]
+[2021.08.10-11.54.31:897][  0]LogInit: Computer: GAME-COMP
+[2021.08.10-11.54.31:897][  0]LogInit: User: damia
+[2021.08.10-11.54.31:897][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.08.10-11.54.31:897][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.10-11.54.31:897][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2021.08.10-11.54.31:897][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.10-11.54.31:897][  0]LogMemory: Process Physical Memory: 129.72 MB used, 129.73 MB peak
+[2021.08.10-11.54.31:897][  0]LogMemory: Process Virtual Memory: 113.60 MB used, 113.60 MB peak
+[2021.08.10-11.54.31:897][  0]LogMemory: Physical Memory: 4968.76 MB used,  1062.54 MB free, 6031.30 MB total
+[2021.08.10-11.54.31:897][  0]LogMemory: Virtual Memory: 134211440.00 MB used,  6286.05 MB free, 134217728.00 MB total
+[2021.08.10-11.54.31:911][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.10-11.54.32:133][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.10-11.54.32:141][  0]LogInit: Using OS detected language (pl-PL).
+[2021.08.10-11.54.32:141][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.08.10-11.54.32:181][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.08.10-11.54.32:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.08.10-11.54.32:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.08.10-11.54.32:183][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.08.10-11.54.32:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.08.10-11.54.32:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.08.10-11.54.32:184][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.08.10-11.54.32:185][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.08.10-11.54.32:193][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.10-11.54.32:241][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.10-11.54.32:317][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.10-11.54.32:317][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.10-11.54.33:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.10-11.54.33:108][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.10-11.54.33:108][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.10-11.54.33:108][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.10-11.54.33:278][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 650M' (Feature Level 11_0)
+[2021.08.10-11.54.33:278][  0]LogD3D11RHI:       2007/0/3015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.10-11.54.33:288][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2021.08.10-11.54.33:288][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.10-11.54.33:294][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.10-11.54.33:294][  0]LogD3D11RHI:       0/0/3015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.10-11.54.33:294][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.10-11.54.33:342][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.10-11.54.33:342][  0]LogD3D11RHI:     GPU DeviceId: 0xfd1 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.10-11.54.33:342][  0]LogWindows: EnumDisplayDevices:
+[2021.08.10-11.54.33:342][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2021.08.10-11.54.33:343][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:1)
+[2021.08.10-11.54.33:344][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2021.08.10-11.54.33:345][  0]LogWindows:    3. 'NVIDIA GeForce GT 650M' (P:0 D:0)
+[2021.08.10-11.54.33:345][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.08.10-11.54.33:345][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 650M
+[2021.08.10-11.54.33:346][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2021.08.10-11.54.33:346][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2021.08.10-11.54.33:346][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2021.08.10-11.54.33:440][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.08.10-11.54.33:440][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.10-11.54.33:531][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.10-11.54.33:544][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.10-11.54.34:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.10-11.54.34:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.10-11.54.34:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.10-11.54.34:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.10-11.54.34:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.10-11.54.34:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.10-11.54.34:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.10-11.54.34:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.10-11.54.34:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.10-11.54.34:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.10-11.54.34:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.10-11.54.35:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.10-11.54.35:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.10-11.54.35:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.10-11.54.35:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.10-11.54.35:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.10-11.54.35:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.10-11.54.35:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.10-11.54.35:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.10-11.54.35:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.10-11.54.35:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.10-11.54.35:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.10-11.54.35:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.10-11.54.35:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.10-11.54.35:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.10-11.54.35:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.10-11.54.35:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.10-11.54.35:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.10-11.54.35:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.10-11.54.35:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.10-11.54.35:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.10-11.54.35:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.10-11.54.35:478][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.10-11.54.35:506][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.10-11.54.36:048][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.10-11.54.36:051][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/hd/LumberJack/ProjektUnreal/Intermediate/Shaders/WorkingDirectory/12756/).
+[2021.08.10-11.54.36:051][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/damia/AppData/Local/Temp/UnrealShaderWorkingDir/3B026AC3459B784BFA8AA18EDEA05775/'.
+[2021.08.10-11.54.36:053][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.08.10-11.54.37:989][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.10-11.54.38:383][  0]LogDerivedDataCache: Loaded boot cache 0.39s 77MB C:/Users/damia/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.10-11.54.38:383][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/damia/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.10-11.54.38:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/hd/LumberJack/ProjektUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.10-11.54.38:384][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.10-11.54.38:384][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/hd/LumberJack/ProjektUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.10-11.54.38:384][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.10-11.54.38:407][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.10-11.54.38:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.10-11.54.38:408][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.10-11.54.38:544][  0]LogDerivedDataCache: Speed tests for C:/Users/damia/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.14 seconds
+[2021.08.10-11.54.38:544][  0]LogDerivedDataCache: Display: Performance to C:/Users/damia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.49ms. RandomReadSpeed=87.03MBs, RandomWriteSpeed=7.88MBs. Assigned SpeedClass 'Local'
+[2021.08.10-11.54.38:544][  0]LogDerivedDataCache: Using Local data cache path C:/Users/damia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.10-11.54.38:545][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.10-11.54.38:545][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.10-11.54.38:645][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.10-11.54.38:653][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.10-11.54.39:234][  0]LogAssetRegistry: FAssetRegistry took 0.0115 seconds to start up
+[2021.08.10-11.54.41:368][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.10-11.54.41:368][  0]LogInit: Active device profile: [0000027A44A8FE00][0000027A428BD100 49] Windows
+[2021.08.10-11.54.41:369][  0]LogInit: Profiles: [0000027A44A8FE00][0000027A428BD100 49] Windows, [0000027A44AA0300][0000027A43BD7280 49] WindowsNoEditor, [0000027A44A8C300][0000027A43BDB400 49] WindowsServer, [0000027A44AA3A00][0000027A43BDF580 49] WindowsClient, [0000027A44A8FB00][0000027A43BE3700 49] IOS, [0000027A44AA0700][0000027A43BD3840 49] iPadAir, [0000027A44A8C600][0000027A43BE7980 49] iPadAir2, [0000027A449F9700][0000027A43BF3C00 49] IPadPro, [0000027A449F9800][0000027A43BEBC40 49] iPadAir3, [0000027A44A8F800][0000027A43BF6100 49] iPadAir4, [0000027A449F8800][0000027A43BFA280 49] iPadMini2, [0000027A44A8C200][0000027A43BFE400 49] iPadMini3, [0000027A449FA100][0000027A43C02580 49] iPadMini4, [0000027A44A8F500][0000027A43C06700 49] iPadMini5, [0000027A44AA2600][0000027A342B29C0 49] iPhone6, [0000027A44AA2500][0000027A342AEA00 49] iPodTouch6, [0000027A449FBD00][0000027A342BACC0 49] iPhone7, [0000027A449FBC00][0000027A342B6D00 49] iPodTouch7, [0000027A44AA2C00][0000027A342BEE80 49] iPhone5S, [0000027A449F9500][0000027A342C3000 49] iPhone6Plus, [0000027A44AA1F00][0000027A342C7180 49] iPhone6S, [0000027A449FB500][0000027A342CB300 49] iPhone6SPlus, [0000027A44AA2B00][0000027A342CF480 49] iPhone7Plus, [0000027A449FBF00][0000027A342D3600 49] iPhoneSE, [0000027A44AA1A00][0000027A342D7780 49] iPhone8, [0000027A449FB000][0000027A43BEF8C0 49] iPhone8Plus, [0000027A44AA3700][0000027A43C0BA00 49] iPhoneX, [0000027A449F8300][0000027A43C0FB40 49] iPhoneXS, [0000027A44AA2F00][0000027A43C17CC0 49] iPhoneXSMax, [0000027A449F9000][0000027A43C1A180 49] iPhoneXR, [0000027A44AA3D00][0000027A43C1E300 49] iPhone11, [0000027A449F8700][0000027A43C22480 49] iPhone11Pro, [0000027A44AA2A00][0000027A43C26600 49] iPhone11ProMax, [0000027A449F8A00][0000027A43C2A780 49] iPhoneSE2, [0000027A44AA1C00][0000027A43C2E900 49] iPhone12Mini, [0000027A449FA000][0000027A43C32A80 49] iPhone12, [0000027A44AA1300][0000027A43C36C00 49] iPhone12Pro, [0000027A449F8E00][0000027A43C3AD80 49] iPhone12ProMax, [0000027A44AA2300][0000027A43C3EF00 49] iPadPro105, [0000027A449F9D00][0000027A43C43080 49] iPadPro129, [0000027A44AA0F00][0000027A43C47200 49] iPadPro97, [0000027A449FB200][0000027A43C4B380 49] iPadPro2_129, [0000027A44AA1400][0000027A43C4F500 49] iPad5, [0000027A449F9A00][0000027A43C53680 49] iPad6, [0000027A44AA0400][0000027A43C57800 49] iPad7, [0000027A449FA500][0000027A43C13940 49] iPad8, [0000027A44AA0B00][0000027A43C5BA80 49] iPadPro11, [0000027A449FA300][0000027A43C5FBC0 49] iPadPro2_11, [0000027A44AA1D00][0000027A43C63D00 49] iPadPro3_129, [0000027A449FB300][0000027A43C6A1C0 49] iPadPro4_129, [0000027A44AA1800][0000027A43C6E340 49] AppleTV, [0000027A449FB600][0000027A43C724C0 49] AppleTV4K, [0000027A44AA1200][0000027A43C76640 49] TVOS, [0000027A449F8F00][0000027A43C7A7C0 49] Mac, [0000027A44AA2400][0000027A43C7E940 49] MacClient, [0000027A449FB900][0000027A43C82AC0 49] MacNoEditor, [0000027A44AA0100][0000027A43C86C40 49] MacServer, [0000027A449FA700][0000027A43C8ADC0 49] Linux, [0000027A44AA0500][0000027A43C8EF40 49] LinuxAArch64, [0000027A449F8200][0000027A43C930C0 49] LinuxNoEditor, [0000027A44AA2200][0000027A43C97240 49] LinuxAArch64NoEditor, [0000027A449FAD00][0000027A43C9B3C0 49] LinuxClient, [0000027A44AA0200][0000027A43C9F540 49] LinuxAArch64Client, [0000027A449FA200][0000027A43CA36C0 49] LinuxServer, [0000027A44AA3B00][0000027A43CA7840 49] LinuxAArch64Server, [0000027A449F9E00][0000027A43C67980 49] Android, [0000027A44AA3900][0000027A43CABAC0 49] Android_Low, [0000027A44A8C900][0000027A43CAFC00 49] Android_Mid, [0000027A44B6D600][0000027A43CB3D40 49] Android_High, [0000027A44A8CF00][0000027A43CBA200 49] Android_Default, [0000027A44B6C600][0000027A43CBE380 49] Android_Adreno4xx, [0000027A44A8D900][0000027A43CC2500 49] Android_Adreno5xx_Low, [0000027A44B6DB00][0000027A43CC6680 49] Android_Adreno5xx, [0000027A44A8EA00][0000027A43CCA800 49] Android_Adreno6xx, [0000027A44B6C400][0000027A44CE0980 49] Android_Adreno6xx_Vulkan, [0000027A44A8FA00][0000027A44CE4B00 49] Android_Mali_T6xx, [0000027A44B6CF00][0000027A44CE8C80 49] Android_Mali_T7xx, [0000027A44A8E100][0000027A44CECE00 49] Android_Mali_T8xx, [0000027A44B6DC00][0000027A44CF0F80 49] Android_Mali_G71, [0000027A44A8EE00][0000027A44CF5100 49] Android_Mali_G72, [0000027A44B6CE00][0000027A44CF9280 49] Android_Mali_G72_Vulkan, [0000027A44A8DA00][0000027A44CFD400 49] Android_Mali_G76, [0000027A44B6D300][0000027A44D01580 49] Android_Mali_G76_Vulkan, [0000027A44A8C500][0000027A44D05700 49] Android_Mali_G77, [0000027A44B6CD00][0000027A44D09880 49] Android_Mali_G77_Vulkan, [0000027A44A8F300][0000027A44D0DA00 49] Android_Vulkan_SM5, [0000027A44B6CA00][0000027A43CB7B40 49] Android_PowerVR_G6xxx, [0000027A44A8EC00][0000027A44D11C80 49] Android_PowerVR_GT7xxx, [0000027A44B6C900][0000027A44D14100 49] Android_PowerVR_GE8xxx, [0000027A44A8E400][0000027A44D1C280 49] Android_PowerVR_GM9xxx, [0000027A44AA2100][0000027A44D20400 49] Android_PowerVR_GM9xxx_Vulkan, [0000027A44A8CE00][0000027A44D24580 49] Android_TegraK1, [0000027A44AA0C00][0000027A44D28700 49] Android_Unknown_Vulkan, [0000027A44A8C800][0000027A44D2C880 49] Lumin, [0000027A44AA0900][0000027A44D30A00 49] Lumin_Desktop, [0000027A44A8D200][0000027A44D34B80 49] HoloLens, 
+[2021.08.10-11.54.48:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.10-11.54.48:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.10-11.54.48:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.10-11.54.48:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.10-11.54.48:192][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.10-11.54.48:379][  0]LogNetVersion: ProjektUnreal 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4147970668)
+[2021.08.10-11.54.50:693][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.10-11.54.51:262][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.562855 seconds
+[2021.08.10-11.54.51:272][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.10-11.54.51:272][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.10-11.54.51:273][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.10-11.54.53:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.10-11.54.53:038][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.10-11.55.02:053][  0]SourceControl: Source control is disabled
+[2021.08.10-11.55.02:054][  0]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2021.08.10-11.55.02:054][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.08.10-11.55.02:055][  0]LogWindows: Warning: CreateProc failed: Nie można odnaleźć określonego pliku. (0x00000002)
+[2021.08.10-11.55.02:055][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.08.10-11.55.04:351][  0]LogUProjectInfo: Found projects:
+[2021.08.10-11.55.13:114][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.10-11.55.13:175][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.10-11.55.13:175][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.10-11.55.13:348][  0]LogCollectionManager: Loaded 0 collections in 0.005151 seconds
+[2021.08.10-11.55.13:426][  0]LogFileCache: Scanning file cache for directory 'D:/hd/LumberJack/ProjektUnreal/Saved/Collections/' took 0.00s
+[2021.08.10-11.55.13:426][  0]LogFileCache: Scanning file cache for directory 'D:/hd/LumberJack/ProjektUnreal/Content/Developers/damia/Collections/' took 0.00s
+[2021.08.10-11.55.13:426][  0]LogFileCache: Scanning file cache for directory 'D:/hd/LumberJack/ProjektUnreal/Content/Collections/' took 0.00s
+[2021.08.10-11.55.13:426][  0]LogOcInput: OculusInput pre-init called
+[2021.08.10-11.55.13:467][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.10-11.55.13:467][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.10-11.55.14:450][  0]LogEngine: Initializing Engine...
+[2021.08.10-11.55.14:459][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.10-11.55.14:459][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.10-11.55.14:469][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2021.08.10-11.55.15:071][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.10-11.55.15:358][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.10-11.55.15:446][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.10-11.55.15:460][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.10-11.55.15:460][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.10-11.55.15:462][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.10-11.55.15:463][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.10-11.55.15:468][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.10-11.55.15:469][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.10-11.55.15:606][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-11.55.15:607][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-11.55.16:069][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.08.10-11.55.16:174][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.10-11.55.16:179][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.10-11.55.16:180][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.10-11.55.16:184][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.10-11.55.16:185][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.10-11.55.16:185][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.10-11.55.16:186][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.10-11.55.16:186][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.10-11.55.16:186][  0]LogInit: FAudioDevice initialized.
+[2021.08.10-11.55.16:189][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.10-11.55.16:191][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.10-11.55.18:053][  0]LogDerivedDataCache: Saved boot cache 1.86s 77MB C:/Users/damia/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.10-11.55.18:060][  0]LogInit: Texture streaming: Enabled
+[2021.08.10-11.55.18:121][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.10-11.55.18:144][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.10-11.55.18:146][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.10-11.55.18:163][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.10-11.55.22:075][  0]LogInit: Transaction tracking system initialized
+[2021.08.10-11.55.22:170][  0]BlueprintLog: New page: Editor Load
+[2021.08.10-11.55.23:500][  0]LocalizationService: Localization service is disabled
+[2021.08.10-11.55.23:616][  0]TimingProfiler: Initialize
+[2021.08.10-11.55.23:619][  0]TimingProfiler: OnSessionChanged
+[2021.08.10-11.55.23:620][  0]LoadingProfiler: Initialize
+[2021.08.10-11.55.23:621][  0]LoadingProfiler: OnSessionChanged
+[2021.08.10-11.55.23:621][  0]NetworkingProfiler: Initialize
+[2021.08.10-11.55.23:622][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.10-11.55.23:622][  0]MemoryProfiler: Initialize
+[2021.08.10-11.55.23:622][  0]MemoryProfiler: OnSessionChanged
+[2021.08.10-11.55.26:213][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.10-11.55.26:213][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.10-11.55.28:657][  0]LogFileCache: Scanning file cache for directory 'D:/hd/LumberJack/ProjektUnreal/Content/' took 2.50s
+[2021.08.10-11.55.30:004][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.10-11.55.30:275][  0]LogUnrealEdMisc: Loading editor; pre map load, took 75.670
+[2021.08.10-11.55.30:280][  0]Cmd: MAP LOAD FILE="D:/hd/LumberJack/ProjektUnreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.10-11.55.30:722][  0]LightingResults: New page: Lighting Build
+[2021.08.10-11.55.30:741][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-11.55.30:745][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-11.55.30:754][  0]MapCheck: New page: Map Check
+[2021.08.10-11.55.30:754][  0]LightingResults: New page: Lighting Build
+[2021.08.10-11.55.34:163][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.08.10-11.55.59:478][  0]LogLinker: Warning: [AssetLog] D:\hd\LumberJack\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.08.10-11.55.59:478][  0]LogLinker: Warning: [AssetLog] D:\hd\LumberJack\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.08.10-11.55.59:858][  0]LogLinker: Warning: [AssetLog] D:\hd\LumberJack\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.08.10-11.56.22:058][  0]LogLinker: Warning: [AssetLog] D:\hd\LumberJack\ProjektUnreal\Content\TMSportPack\sport\materials\MI_WoodLog.uasset: Failed to load '/Game/TMSportPack/sport/textures/T_WoodLog_BC': Can't find file.
+[2021.08.10-11.56.22:059][  0]LoadErrors: Failed to load /Game/TMSportPack/sport/textures/T_WoodLog_BC.T_WoodLog_BC Referenced by MI_WoodLog
+[2021.08.10-11.57.07:823][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.08.10-11.57.07:848][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.08.10-11.57.07:989][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.10-11.57.09:156][  0]LogEditorServer: Finished looking for orphan Actors (0.009 secs)
+[2021.08.10-11.57.10:431][  0]LogUObjectHash: Compacting FUObjectHashTables data took  53.29ms
+[2021.08.10-11.57.10:484][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.10-11.57.10:494][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,889ms to complete.
+[2021.08.10-11.57.10:496][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 100.219
+[2021.08.10-11.57.19:904][  0]LogUnrealEdMisc: Total Editor Startup Time, took 185.340
+[2021.08.10-11.57.20:734][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-11.57.20:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-11.57.20:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-11.57.20:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-11.57.21:129][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.2293 seconds. Added 3613 classes and 861 folders.
+[2021.08.10-11.57.21:187][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.08.10-11.57.21:233][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.10-11.57.21:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.10-11.57.21:235][  0]LogPakFile: OnPakFileMounted2Time == 0.001673
+[2021.08.10-11.57.21:245][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.10-11.57.21:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.10-11.57.21:245][  0]LogPakFile: OnPakFileMounted2Time == 0.001677
+[2021.08.10-11.57.21:251][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.10-11.57.21:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.10-11.57.21:251][  0]LogPakFile: OnPakFileMounted2Time == 0.001687
+[2021.08.10-11.57.21:267][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.10-11.57.21:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.10-11.57.21:267][  0]LogPakFile: OnPakFileMounted2Time == 0.001692
+[2021.08.10-11.57.21:271][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.10-11.57.21:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.10-11.57.21:271][  0]LogPakFile: OnPakFileMounted2Time == 0.001696
+[2021.08.10-11.57.21:274][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.10-11.57.21:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.10-11.57.21:275][  0]LogPakFile: OnPakFileMounted2Time == 0.001699
+[2021.08.10-11.57.21:281][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.10-11.57.21:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.10-11.57.21:282][  0]LogPakFile: OnPakFileMounted2Time == 0.001704
+[2021.08.10-11.57.21:285][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.10-11.57.21:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.10-11.57.21:285][  0]LogPakFile: OnPakFileMounted2Time == 0.001708
+[2021.08.10-11.57.21:289][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.10-11.57.21:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.10-11.57.21:289][  0]LogPakFile: OnPakFileMounted2Time == 0.001713
+[2021.08.10-11.57.21:296][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.10-11.57.21:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.10-11.57.21:296][  0]LogPakFile: OnPakFileMounted2Time == 0.001719
+[2021.08.10-11.57.21:300][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.10-11.57.21:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.10-11.57.21:300][  0]LogPakFile: OnPakFileMounted2Time == 0.001724
+[2021.08.10-11.57.21:304][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.10-11.57.21:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.10-11.57.21:304][  0]LogPakFile: OnPakFileMounted2Time == 0.001728
+[2021.08.10-11.57.21:308][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.10-11.57.21:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.10-11.57.21:308][  0]LogPakFile: OnPakFileMounted2Time == 0.001733
+[2021.08.10-11.57.21:312][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.10-11.57.21:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.10-11.57.21:312][  0]LogPakFile: OnPakFileMounted2Time == 0.001736
+[2021.08.10-11.57.21:315][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.10-11.57.21:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.10-11.57.21:315][  0]LogPakFile: OnPakFileMounted2Time == 0.001739
+[2021.08.10-11.57.21:320][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.10-11.57.21:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.10-11.57.21:320][  0]LogPakFile: OnPakFileMounted2Time == 0.001744
+[2021.08.10-11.57.21:329][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.10-11.57.21:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.10-11.57.21:329][  0]LogPakFile: OnPakFileMounted2Time == 0.001749
+[2021.08.10-11.57.21:332][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.10-11.57.21:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.10-11.57.21:332][  0]LogPakFile: OnPakFileMounted2Time == 0.001755
+[2021.08.10-11.57.21:336][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.10-11.57.21:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.10-11.57.21:337][  0]LogPakFile: OnPakFileMounted2Time == 0.001760
+[2021.08.10-11.57.21:344][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.10-11.57.21:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.10-11.57.21:345][  0]LogPakFile: OnPakFileMounted2Time == 0.001766
+[2021.08.10-11.57.21:348][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.10-11.57.21:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.10-11.57.21:348][  0]LogPakFile: OnPakFileMounted2Time == 0.001771
+[2021.08.10-11.57.21:352][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.10-11.57.21:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.10-11.57.21:352][  0]LogPakFile: OnPakFileMounted2Time == 0.001775
+[2021.08.10-11.57.21:355][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.10-11.57.21:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.10-11.57.21:355][  0]LogPakFile: OnPakFileMounted2Time == 0.001779
+[2021.08.10-11.57.21:360][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.10-11.57.21:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.10-11.57.21:360][  0]LogPakFile: OnPakFileMounted2Time == 0.001784
+[2021.08.10-11.57.21:365][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.10-11.57.21:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.10-11.57.21:365][  0]LogPakFile: OnPakFileMounted2Time == 0.001788
+[2021.08.10-11.57.21:368][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.10-11.57.21:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.10-11.57.21:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.10-11.57.21:368][  0]LogPakFile: OnPakFileMounted2Time == 0.001793
+[2021.08.10-11.57.21:758][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.10-11.57.21:769][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.10-11.57.22:134][  0]LogSlate: Took 0.002620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.10-11.57.22:143][  0]LogSlate: Took 0.002145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.10-11.57.22:174][  0]LogSlate: Took 0.001853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.10-11.57.22:655][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2021.08.10-11.57.24:422][  0]LogSlate: Took 0.001941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.10-11.57.24:566][  0]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.10-11.57.26:115][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2021.08.10-11.57.26:125][  0]LogLoad: (Engine Initialization) Total time: 191.56 seconds
+[2021.08.10-11.57.26:126][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.10-11.57.26:127][  0]LogInit: First time updating LLM stats...
+[2021.08.10-11.57.27:377][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.10-11.57.28:925][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/hd/LumberJack/ProjektUnreal/Content/' took 2.64s
+[2021.08.10-11.57.39:665][ 33]LogAssetRegistry: Asset discovery search completed in 180.4339 seconds
+[2021.08.10-11.57.39:698][ 33]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000793 seconds (updated 0 objects)
+[2021.08.10-11.59.31:825][397]LogSlate: Window 'Message Log' being destroyed
+[2021.08.10-11.59.31:838][397]LogSlate: Window 'Message Log' being destroyed
+[2021.08.10-12.00.12:107][459]LogSlate: Window 'Source Control Login' being destroyed
+[2021.08.10-12.01.00:181][617]LogSlate: Took 0.002138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.10-12.01.00:259][617]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2021.08.10-12.01.00:965][617]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0066 seconds. Added 126 classes and 0 folders.
+[2021.08.10-12.01.04:794][617]LogSlate: Took 0.001610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.10-12.01.11:765][995]LogSlate: Took 0.001694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.10-12.04.06:897][510]LogSlate: Took 0.017962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.10-12.07.54:913][847]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.10-12.07.54:960][847]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.10-12.07.54:961][847]LogPlayLevel: [PlayLevel] Compiling PauseMenuWidget before play...
+[2021.08.10-12.07.55:269][847]LogUObjectHash: Compacting FUObjectHashTables data took  12.74ms
+[2021.08.10-12.07.55:313][847]LogPlayLevel: PlayLevel: Blueprint regeneration took 353 ms (1 blueprints)
+[2021.08.10-12.07.55:315][847]PIE: New page: PIE session: ThirdPersonExampleMap (10 sie 2021, 16:07:55)
+[2021.08.10-12.07.55:343][847]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.10-12.07.55:354][847]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.10-12.07.55:358][847]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-12.07.56:337][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.977901s)
+[2021.08.10-12.07.56:346][847]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.10-12.07.56:355][847]LogPlayLevel: PIE: World Init took: (0.018245s)
+[2021.08.10-12.07.56:357][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.999018s)
+[2021.08.10-12.07.56:435][847]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.08.10-12.07.56:440][847]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.10-12.07.56:443][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.10-12.07.56:443][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.10-12.07.56:443][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.10-12.07.56:443][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.10-12.07.56:444][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.10-12.07.56:444][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.10-12.07.56:444][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.10-12.07.56:444][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.10-12.07.56:448][847]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.10-12.07.56:448][847]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.10-12.07.56:468][847]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-12.07.56:468][847]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-12.07.56:526][847]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.08.10-12.07.56:529][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.10-12.07.56:530][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.10-12.07.56:530][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.10-12.07.56:532][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.10-12.07.56:532][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.10-12.07.56:533][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.10-12.07.56:562][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.10-12.07.56:562][847]LogInit: FAudioDevice initialized.
+[2021.08.10-12.07.56:563][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.10-12.07.56:563][847]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.08.10-12.07.56:624][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-12.07.57:818][847]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.08.10-12.07.57:984][847]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.10-14.07.57
+[2021.08.10-12.07.58:022][847]LogWorld: Bringing up level for play took: 0.201454
+[2021.08.10-12.07.58:029][847]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.08.10-12.07.58:072][847]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2021.08.10-12.07.58:105][847]PIE: Server logged in
+[2021.08.10-12.07.58:106][847]PIE: Play in editor total start time 3,161 seconds.
+[2021.08.10-12.07.58:542][848]LogRenderer: Reallocating scene render targets to support 1920x1048 Format 10 NumSamples 1 (Frame:1).
+[2021.08.10-12.08.06:494][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-12.08.06:495][931]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-12.08.06:498][931]LogSlate: Window 'Drwal Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.10-12.08.06:627][931]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.08.06:666][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.08.06:707][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.10-12.08.06:731][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.08.06:826][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.10-12.08.06:829][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-12.08.06:832][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-12.08.07:093][931]LogUObjectHash: Compacting FUObjectHashTables data took  15.26ms
+[2021.08.10-12.08.07:196][932]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.08.10-12.09.32:283][703]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2021.08.10-12.09.32:286][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.107
+[2021.08.10-12.09.33:079][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PauseMenu/PauseMenuWidget] ([1] browsable assets)...
+[2021.08.10-12.09.33:080][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/PauseMenu/PauseMenuWidget]
+[2021.08.10-12.09.33:081][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.08.10-12.09.33:147][703]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget_Auto16EF61B9A4DD2411D1DE7C3BD2C935D3A.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto1.uasset'
+[2021.08.10-12.09.33:156][703]LogFileHelpers: Auto-saving content packages took 0.870
+[2021.08.10-12.15.26:015][309]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2021.08.10-12.15.34:270][535]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.15.34:270][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.15.34:364][535]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.15.34:365][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.16.01:923][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_ShooterPlayerController.BP_ShooterPlayerController
+[2021.08.10-12.16.37:704][170]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2021.08.10-12.21.05:465][537]LogSlate: Window 'BP_ShooterPlayerController' being destroyed
+[2021.08.10-12.21.05:524][537]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.21.05:524][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.21.05:658][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_ShooterPlayerController.BP_ShooterPlayerController
+[2021.08.10-12.21.06:432][537]LogBlueprintEditor: Perf: 0.6 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.08.10-12.21.06:432][537]LogBlueprintEditor: Perf: 0.5 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.08.10-12.21.35:407][931]LogSlate: Window 'BP_ShooterPlayerController' being destroyed
+[2021.08.10-12.21.35:568][931]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.21.35:569][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.21.49:487][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_KillEmAllGameMode.BP_KillEmAllGameMode
+[2021.08.10-12.22.21:093][569]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.10-12.23.14:679][976]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.23.14:680][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.23.14:724][976]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.23.14:724][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.24.29:483][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_ShooterPlayerController.BP_ShooterPlayerController
+[2021.08.10-12.26.34:390][559]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APlayerController::GetHUD' [Nie można odnaleźć elementu.]
+[2021.08.10-12.27.35:017][345]LogUObjectHash: Compacting FUObjectHashTables data took  54.44ms
+[2021.08.10-12.27.35:079][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.622
+[2021.08.10-12.27.35:083][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PauseMenu/PauseMenuWidget] ([1] browsable assets)...
+[2021.08.10-12.27.35:083][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/PauseMenu/PauseMenuWidget]
+[2021.08.10-12.27.35:083][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.08.10-12.27.35:919][345]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget_Auto25412EE764F455F935F6306B51EA4D2A3.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto2.uasset'
+[2021.08.10-12.27.35:957][345]LogFileHelpers: Auto-saving content packages took 0.876
+[2021.08.10-12.29.01:418][574]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.10-12.30.22:136][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.BP_PlayerShooterCharacter
+[2021.08.10-12.31.41:438][736]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.10-12.38.52:093][602]LogUObjectHash: Compacting FUObjectHashTables data took  19.34ms
+[2021.08.10-12.38.52:162][602]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.234
+[2021.08.10-12.38.54:834][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter] ([1] browsable assets)...
+[2021.08.10-12.38.54:959][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.BP_PlayerShooterCharacter]
+[2021.08.10-12.38.54:959][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter]
+[2021.08.10-12.38.55:173][602]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/BP_PlayerShooterCharacter_Auto3B9CBF1E848E6146D0A8F5DB644CA892C.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter_Auto3.uasset'
+[2021.08.10-12.38.55:181][602]LogFileHelpers: Auto-saving content packages took 3.019
+[2021.08.10-12.38.57:802][619]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/BP_PlayerShooterCharacterE6B63B524AEE0454D010F4A63585D0C5.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.uasset'
+[2021.08.10-12.38.57:916][619]AssetCheck: New page: Asset Save: BP_PlayerShooterCharacter
+[2021.08.10-12.38.57:916][619]LogContentValidation: Display: Validating Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.BP_PlayerShooterCharacter
+[2021.08.10-12.41.07:233][693]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/BP_PlayerShooterCharacter2DCF662C41BF85D1DAC32E8FECF7C24D.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.uasset'
+[2021.08.10-12.41.07:259][693]AssetCheck: New page: Asset Save: BP_PlayerShooterCharacter
+[2021.08.10-12.41.07:259][693]LogContentValidation: Display: Validating Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.BP_PlayerShooterCharacter
+[2021.08.10-12.41.10:029][795]BlueprintLog: New page: Compile BP_PlayerShooterCharacter
+[2021.08.10-12.41.10:183][795]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2021.08.10-12.41.12:929][919]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/BP_PlayerShooterCharacter331DCFA740E151A5E2C7F199042EF35A.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.uasset'
+[2021.08.10-12.41.12:955][919]AssetCheck: New page: Asset Save: BP_PlayerShooterCharacter
+[2021.08.10-12.41.12:955][919]LogContentValidation: Display: Validating Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.BP_PlayerShooterCharacter
+[2021.08.10-12.41.19:415][127]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.10-12.41.19:471][127]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.10-12.41.19:489][127]LogPlayLevel: [PlayLevel] Compiling PauseMenuWidget before play...
+[2021.08.10-12.41.19:859][127]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2021.08.10-12.41.19:870][127]LogPlayLevel: PlayLevel: Blueprint regeneration took 398 ms (1 blueprints)
+[2021.08.10-12.41.19:874][127]PIE: New page: PIE session: ThirdPersonExampleMap (10 sie 2021, 16:41:19)
+[2021.08.10-12.41.19:876][127]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-12.41.20:463][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.587140s)
+[2021.08.10-12.41.20:468][127]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.10-12.41.20:470][127]LogPlayLevel: PIE: World Init took: (0.007044s)
+[2021.08.10-12.41.20:471][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.595153s)
+[2021.08.10-12.41.20:532][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.08.10-12.41.20:535][127]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.10-12.41.20:536][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.10-12.41.20:536][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.10-12.41.20:539][127]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.10-12.41.20:540][127]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.10-12.41.20:559][127]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-12.41.20:559][127]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-12.41.20:691][127]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.08.10-12.41.20:691][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.10-12.41.20:691][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.10-12.41.20:691][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.10-12.41.20:693][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.10-12.41.20:693][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.10-12.41.20:693][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.10-12.41.20:731][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.10-12.41.20:731][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.10-12.41.20:731][127]LogInit: FAudioDevice initialized.
+[2021.08.10-12.41.20:731][127]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.08.10-12.41.20:795][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-12.41.20:796][127]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.08.10-12.41.21:020][127]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.10-14.41.21
+[2021.08.10-12.41.21:042][127]LogWorld: Bringing up level for play took: 0.244367
+[2021.08.10-12.41.21:045][127]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.10-12.41.21:147][127]PIE: Server logged in
+[2021.08.10-12.41.21:150][127]PIE: Play in editor total start time 1,69 seconds.
+[2021.08.10-12.41.23:078][133]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.08.10-12.41.25:134][151]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-12.41.25:135][151]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-12.41.25:135][151]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.10-12.41.26:687][166]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.10-12.41.26:687][166]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.10-12.41.33:844][240]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-12.41.33:844][240]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-12.41.33:845][240]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.10-12.41.36:014][263]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.10-12.41.36:015][263]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.10-12.41.41:365][320]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-12.41.41:365][320]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-12.41.41:365][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.10-12.41.43:128][334]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.10-12.41.43:129][334]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.10-12.41.44:254][346]LogTemp: Warning: Pozostalo zycia: 980.000000
+[2021.08.10-12.41.44:256][346]LogTemp: Warning: Pozostalo zycia: 960.000000
+[2021.08.10-12.41.44:841][352]LogTemp: Warning: Pozostalo zycia: 940.000000
+[2021.08.10-12.41.45:254][356]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.08.10-12.41.45:374][357]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.08.10-12.41.45:515][358]LogTemp: Warning: Pozostalo zycia: 920.000000
+[2021.08.10-12.41.45:516][358]LogTemp: Warning: Pozostalo zycia: 900.000000
+[2021.08.10-12.41.46:010][362]LogTemp: Warning: Pozostalo zycia: 880.000000
+[2021.08.10-12.41.46:794][368]LogTemp: Warning: Pozostalo zycia: 860.000000
+[2021.08.10-12.41.46:795][368]LogTemp: Warning: Pozostalo zycia: 840.000000
+[2021.08.10-12.41.46:913][369]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-12.41.46:914][369]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-12.41.46:914][369]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.10-12.41.48:844][389]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.10-12.41.48:844][389]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.10-12.41.48:973][390]LogTemp: Warning: Pozostalo zycia: 820.000000
+[2021.08.10-12.41.52:156][417]LogTemp: Warning: Pozostalo zycia: 800.000000
+[2021.08.10-12.41.52:157][417]LogTemp: Warning: Pozostalo zycia: 780.000000
+[2021.08.10-12.41.52:278][418]LogTemp: Warning: Pozostalo zycia: 40.000000
+[2021.08.10-12.41.52:382][419]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.08.10-12.41.52:495][420]LogTemp: Warning: Pozostalo zycia: 760.000000
+[2021.08.10-12.41.54:980][440]LogTemp: Warning: Pozostalo zycia: 740.000000
+[2021.08.10-12.41.55:670][446]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.08.10-12.41.55:790][447]LogTemp: Warning: Pozostalo zycia: 20.000000
+[2021.08.10-12.41.55:800][447]LogTemp: Warning: Pozostalo zycia: 720.000000
+[2021.08.10-12.41.55:801][447]LogTemp: Warning: Pozostalo zycia: 700.000000
+[2021.08.10-12.41.56:041][449]LogTemp: Warning: Pozostalo zycia: 40.000000
+[2021.08.10-12.41.56:170][450]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.08.10-12.41.56:940][456]LogTemp: Warning: Pozostalo zycia: 680.000000
+[2021.08.10-12.41.56:941][456]LogTemp: Warning: Pozostalo zycia: 660.000000
+[2021.08.10-12.41.57:158][458]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.08.10-12.41.57:287][459]LogTemp: Warning: Pozostalo zycia: 40.000000
+[2021.08.10-12.41.57:414][460]LogTemp: Warning: Pozostalo zycia: 20.000000
+[2021.08.10-12.41.57:424][460]LogTemp: Warning: Pozostalo zycia: 640.000000
+[2021.08.10-12.41.57:654][462]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.41.58:159][466]LogTemp: Warning: Pozostalo zycia: 620.000000
+[2021.08.10-12.41.58:160][466]LogTemp: Warning: Pozostalo zycia: 600.000000
+[2021.08.10-12.41.58:547][469]LogTemp: Warning: Pozostalo zycia: 20.000000
+[2021.08.10-12.41.59:351][475]LogTemp: Warning: Pozostalo zycia: 580.000000
+[2021.08.10-12.41.59:353][475]LogTemp: Warning: Pozostalo zycia: 560.000000
+[2021.08.10-12.41.59:459][476]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.42.00:494][484]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.42.00:619][485]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.42.08:228][550]LogTemp: Warning: Pozostalo zycia: 80.000000
+[2021.08.10-12.42.09:249][559]LogTemp: Warning: Pozostalo zycia: 60.000000
+[2021.08.10-12.42.09:794][562]LogTemp: Warning: Pozostalo zycia: 40.000000
+[2021.08.10-12.42.09:884][563]LogTemp: Warning: Pozostalo zycia: 20.000000
+[2021.08.10-12.42.10:022][565]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.42.10:242][568]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.42.10:395][570]LogTemp: Warning: Pozostalo zycia: 0.000000
+[2021.08.10-12.42.14:686][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-12.42.14:687][612]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-12.42.14:689][612]LogSlate: Window 'Drwal Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.10-12.42.14:888][612]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-12.42.14:933][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.42.15:017][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.10-12.42.15:060][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-12.42.15:274][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-12.42.15:278][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-12.42.15:406][612]LogUObjectHash: Compacting FUObjectHashTables data took  12.06ms
+[2021.08.10-12.42.15:518][613]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.10-12.42.18:151][627]LogUObjectHash: Compacting FUObjectHashTables data took  10.56ms
+[2021.08.10-12.42.24:218][627]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/ThirdPersonExampleMap9913F7434C7833B79C8B3CA994DCF32E.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.10-12.42.53:049][627]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/ThirdPersonExampleMap_BuiltData3538D9B441CE9F67B7DABF9E4E927CB2.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.10-12.42.53:296][627]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.10-12.42.53:296][627]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.10-12.42.53:296][627]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.10-12.44.50:041][970]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f8798f19-3892-40df-a39a-24ef255217a4}.
+[2021.08.10-12.44.50:041][970]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.10-12.44.50:125][970]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-12.44.50:125][970]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-12.50.28:612][981]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6dd56fb3-df4f-4aaa-8ce6-11c2d61d50ef}.
+[2021.08.10-12.50.28:769][981]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.10-12.50.28:869][981]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-12.50.28:870][981]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-12.52.31:549][345]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f8798f19-3892-40df-a39a-24ef255217a4}.
+[2021.08.10-12.52.31:549][345]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.10-12.52.31:588][345]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-12.52.31:588][345]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-12.58.49:425][473]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6dd56fb3-df4f-4aaa-8ce6-11c2d61d50ef}.
+[2021.08.10-12.58.49:425][473]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.10-12.58.49:496][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-12.58.49:497][473]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-13.00.52:528][838]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f8798f19-3892-40df-a39a-24ef255217a4}.
+[2021.08.10-13.00.52:528][838]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.10-13.00.52:582][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-13.00.52:582][838]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-13.03.37:818][331]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6dd56fb3-df4f-4aaa-8ce6-11c2d61d50ef}.
+[2021.08.10-13.03.37:818][331]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.10-13.03.37:880][331]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-13.03.37:880][331]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-13.06.40:673][638]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/BP_PlayerShooterCharacter355268964B92DC5EB8E2C2AC902B9904.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.uasset'
+[2021.08.10-13.06.40:708][638]AssetCheck: New page: Asset Save: BP_PlayerShooterCharacter
+[2021.08.10-13.06.40:708][638]LogContentValidation: Display: Validating Blueprint /Game/GlownyBohaterNIEZMIENIACNIC/BP_PlayerShooterCharacter.BP_PlayerShooterCharacter
+[2021.08.10-13.06.41:130][657]BlueprintLog: New page: Compile BP_PlayerShooterCharacter
+[2021.08.10-13.06.41:409][657]LogUObjectHash: Compacting FUObjectHashTables data took   9.73ms
+[2021.08.10-13.08.27:264][129]LogUObjectHash: Compacting FUObjectHashTables data took  21.56ms
+[2021.08.10-13.08.27:286][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.215
+[2021.08.10-13.08.27:289][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PauseMenu/PauseMenuWidget] ([1] browsable assets)...
+[2021.08.10-13.08.27:289][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/PauseMenu/PauseMenuWidget]
+[2021.08.10-13.08.27:289][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.08.10-13.08.27:340][129]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget_Auto457D673714999256D10F439B96454509D.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto4.uasset'
+[2021.08.10-13.08.27:344][129]LogFileHelpers: Auto-saving content packages took 0.056
+[2021.08.10-13.11.27:984][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset" SILENT=true
+[2021.08.10-13.11.28:111][385]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget68722F00477B6D35C4AAA1AADBAC2DDC.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset'
+[2021.08.10-13.11.28:187][385]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2021.08.10-13.11.28:187][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2021.08.10-13.11.29:943][455]BlueprintLog: New page: Compile PauseMenuWidget
+[2021.08.10-13.11.30:103][455]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.08.10-13.11.57:916][ 23]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.10-13.11.58:729][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.10-13.11.58:730][ 23]PIE: New page: PIE session: ThirdPersonExampleMap (10 sie 2021, 17:11:58)
+[2021.08.10-13.11.58:731][ 23]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-13.11.59:930][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (1.198058s)
+[2021.08.10-13.11.59:933][ 23]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.10-13.11.59:935][ 23]LogPlayLevel: PIE: World Init took: (0.004779s)
+[2021.08.10-13.11.59:936][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (1.204477s)
+[2021.08.10-13.12.00:181][ 23]LogUObjectHash: Compacting FUObjectHashTables data took  11.08ms
+[2021.08.10-13.12.00:195][ 23]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.10-13.12.00:195][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.10-13.12.00:195][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.10-13.12.00:195][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.10-13.12.00:195][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.10-13.12.00:195][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.10-13.12.00:196][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.10-13.12.00:196][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.10-13.12.00:196][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.10-13.12.00:198][ 23]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.10-13.12.00:198][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.10-13.12.00:214][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-13.12.00:215][ 23]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-13.12.00:282][ 23]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.08.10-13.12.00:283][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.10-13.12.00:283][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.10-13.12.00:283][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.10-13.12.00:285][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.10-13.12.00:285][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.10-13.12.00:285][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.10-13.12.00:324][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.10-13.12.00:324][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.10-13.12.00:324][ 23]LogInit: FAudioDevice initialized.
+[2021.08.10-13.12.00:324][ 23]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.08.10-13.12.00:385][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-13.12.00:386][ 23]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.08.10-13.12.00:517][ 23]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.10-15.12.00
+[2021.08.10-13.12.00:535][ 23]LogWorld: Bringing up level for play took: 0.148889
+[2021.08.10-13.12.00:537][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.08.10-13.12.00:583][ 23]PIE: Server logged in
+[2021.08.10-13.12.00:588][ 23]PIE: Play in editor total start time 1,873 seconds.
+[2021.08.10-13.12.04:683][ 43]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-13.12.04:683][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-13.12.04:683][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.10-13.12.06:537][ 60]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.10-13.12.06:538][ 60]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.10-13.12.20:126][177]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-13.12.20:126][177]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-13.12.20:126][177]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.08.10-13.12.40:749][355]LogSlate: Window 'Drwal Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.10-13.12.40:945][355]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-13.12.41:011][355]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-13.12.41:053][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-13.12.41:093][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.10-13.12.41:158][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-13.12.41:560][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.10-13.12.41:562][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-13.12.41:567][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-13.12.41:738][355]LogUObjectHash: Compacting FUObjectHashTables data took  18.80ms
+[2021.08.10-13.12.41:877][356]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.08.10-13.15.32:560][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset" SILENT=true
+[2021.08.10-13.15.32:615][680]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidgetB3AFC30C4F92289619DE0990AA85E46D.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset'
+[2021.08.10-13.15.32:644][680]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2021.08.10-13.15.32:644][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2021.08.10-13.15.44:344][370]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.10-13.15.44:363][370]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.10-13.15.44:366][370]LogPlayLevel: [PlayLevel] Compiling PauseMenuWidget before play...
+[2021.08.10-13.15.44:540][370]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2021.08.10-13.15.44:558][370]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (1 blueprints)
+[2021.08.10-13.15.44:558][370]PIE: New page: PIE session: ThirdPersonExampleMap (10 sie 2021, 17:15:44)
+[2021.08.10-13.15.44:558][370]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-13.15.44:844][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.283284s)
+[2021.08.10-13.15.44:846][370]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.10-13.15.44:847][370]LogPlayLevel: PIE: World Init took: (0.002790s)
+[2021.08.10-13.15.44:847][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.288105s)
+[2021.08.10-13.15.44:916][370]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.08.10-13.15.44:923][370]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.10-13.15.44:923][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.10-13.15.44:923][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.10-13.15.44:924][370]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.10-13.15.44:924][370]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.10-13.15.44:933][370]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-13.15.44:933][370]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-13.15.44:975][370]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.08.10-13.15.44:975][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.10-13.15.44:975][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.10-13.15.44:975][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.10-13.15.44:976][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.10-13.15.44:976][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.10-13.15.44:976][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.10-13.15.45:004][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.10-13.15.45:004][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.10-13.15.45:004][370]LogInit: FAudioDevice initialized.
+[2021.08.10-13.15.45:004][370]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.08.10-13.15.45:051][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-13.15.45:051][370]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.08.10-13.15.45:165][370]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.10-15.15.45
+[2021.08.10-13.15.45:176][370]LogWorld: Bringing up level for play took: 0.123422
+[2021.08.10-13.15.45:177][370]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.08.10-13.15.45:205][370]PIE: Server logged in
+[2021.08.10-13.15.45:206][370]PIE: Play in editor total start time 0,848 seconds.
+[2021.08.10-13.15.47:764][397]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-13.15.47:764][397]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-13.15.47:765][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.10-13.15.50:689][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-13.15.50:689][436]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-13.15.50:689][436]LogSlate: Window 'Drwal Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.10-13.15.50:839][436]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-13.15.50:861][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-13.15.50:876][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.10-13.15.50:893][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-13.15.50:993][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-13.15.50:995][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-13.15.51:062][436]LogUObjectHash: Compacting FUObjectHashTables data took   9.68ms
+[2021.08.10-13.15.51:116][437]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.08.10-13.16.51:296][410]BlueprintLog: New page: Compile PauseMenuWidget
+[2021.08.10-13.16.51:379][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.08.10-13.17.03:490][879]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.08.10-13.17.03:526][879]LogSlate: Window 'Widget Reflector' being destroyed
+[2021.08.10-13.18.15:619][158]LogEditorTransaction: Undo Move Anchor
+[2021.08.10-13.19.29:833][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset" SILENT=true
+[2021.08.10-13.19.30:579][849]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget6FD807BE4DA67B55C541898A59C93799.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset'
+[2021.08.10-13.19.30:720][849]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2021.08.10-13.19.30:720][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2021.08.10-13.19.32:326][931]BlueprintLog: New page: Compile PauseMenuWidget
+[2021.08.10-13.19.32:447][931]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2021.08.10-13.19.34:291][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset" SILENT=true
+[2021.08.10-13.19.34:395][990]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget07BD3D6B4E62DAE7EECEC1A15FD34DCB.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Content/PauseMenu/PauseMenuWidget.uasset'
+[2021.08.10-13.19.34:442][990]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2021.08.10-13.19.34:442][990]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2021.08.10-13.19.35:084][ 13]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.10-13.19.35:152][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.10-13.19.35:152][ 13]PIE: New page: PIE session: ThirdPersonExampleMap (10 sie 2021, 17:19:35)
+[2021.08.10-13.19.35:153][ 13]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-13.19.35:536][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.383190s)
+[2021.08.10-13.19.35:537][ 13]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.10-13.19.35:538][ 13]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2021.08.10-13.19.35:538][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.385883s)
+[2021.08.10-13.19.35:611][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2021.08.10-13.19.35:614][ 13]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.10-13.19.35:615][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.10-13.19.35:615][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.10-13.19.35:615][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.10-13.19.35:625][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.10-13.19.35:625][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.08.10-13.19.35:667][ 13]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.08.10-13.19.35:668][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.10-13.19.35:668][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.10-13.19.35:668][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.10-13.19.35:669][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.10-13.19.35:669][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.10-13.19.35:669][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.10-13.19.35:695][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.10-13.19.35:695][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.10-13.19.35:695][ 13]LogInit: FAudioDevice initialized.
+[2021.08.10-13.19.35:695][ 13]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.08.10-13.19.35:752][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-13.19.35:752][ 13]LogLoad: Game class is 'BP_KillEmAllGameMode_C'
+[2021.08.10-13.19.35:881][ 13]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.10-15.19.35
+[2021.08.10-13.19.35:895][ 13]LogWorld: Bringing up level for play took: 0.141588
+[2021.08.10-13.19.35:896][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.10-13.19.35:919][ 13]PIE: Server logged in
+[2021.08.10-13.19.35:921][ 13]PIE: Play in editor total start time 0,783 seconds.
+[2021.08.10-13.19.38:628][ 30]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.08.10-13.19.38:628][ 30]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.08.10-13.19.38:629][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.08.10-13.19.42:083][ 70]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.08.10-13.19.42:083][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.08.10-13.19.42:697][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.10-13.19.42:697][ 77]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.10-13.19.42:698][ 77]LogSlate: Window 'Drwal Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.10-13.19.42:898][ 77]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.10-13.19.42:922][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-13.19.42:945][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.10-13.19.42:960][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.10-13.19.43:053][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.10-13.19.43:054][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-13.19.43:055][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.10-13.19.43:107][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.08.10-13.19.43:160][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.10-13.21.35:522][134]LogUObjectHash: Compacting FUObjectHashTables data took  15.75ms
+[2021.08.10-13.21.35:540][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.151
+[2021.08.10-13.21.35:544][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PauseMenu/PauseMenuWidget] ([1] browsable assets)...
+[2021.08.10-13.21.35:544][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/PauseMenu/PauseMenuWidget]
+[2021.08.10-13.21.35:544][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenuWidget" FILE="D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.08.10-13.21.35:644][134]LogSavePackage: Moving 'D:/hd/LumberJack/ProjektUnreal/Saved/PauseMenuWidget_Auto5ACB9A45C4AB33C0C138B6FA2133CF70C.tmp' to 'D:/hd/LumberJack/ProjektUnreal/Saved/Autosaves/Game/PauseMenu/PauseMenuWidget_Auto5.uasset'
+[2021.08.10-13.21.35:654][134]LogFileHelpers: Auto-saving content packages took 0.113
+[2021.08.10-13.23.39:295][ 89]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.10-13.23.39:345][ 89]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.047 s
+[2021.08.10-13.23.39:346][ 89]LogOutputDevice: Error: === Handled ensure: ===
+[2021.08.10-13.23.39:346][ 89]LogOutputDevice: Error: 
+[2021.08.10-13.23.39:346][ 89]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: Stack: 
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff995b1d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9959c2141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9959c0db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9959ce88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff995a46b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff995a44089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.10-13.23.39:347][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c2fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:348][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c2faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:349][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:350][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:351][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c2faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:352][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2c31ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:353][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:354][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd74a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd73dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd76d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bca252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff99bd77aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b29f977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2a2b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:355][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b29fa0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2a51e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff9b2a51659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff764b3ae49 UE4Editor.exe!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff764b5117c UE4Editor.exe!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff764b5125a UE4Editor.exe!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff764b652bd UE4Editor.exe!UnknownFunction []
+[2021.08.10-13.23.39:356][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff764b67fea UE4Editor.exe!UnknownFunction []
+[2021.08.10-13.23.39:357][ 89]LogOutputDevice: Error: [Callstack] 0x00007ffa06927034 KERNEL32.DLL!UnknownFunction []
+[2021.08.10-13.23.39:357][ 89]LogOutputDevice: Error: [Callstack] 0x00007ffa077c2651 ntdll.dll!UnknownFunction []
+[2021.08.10-13.23.39:357][ 89]LogOutputDevice: Error: 
+[2021.08.10-13.23.40:135][ 89]LogStats:                SubmitErrorReport -  0.000 s
