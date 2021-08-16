@@ -16,12 +16,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_SPARSE_DATA
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execFire); \
 	DECLARE_FUNCTION(execGetHealthPercent); \
 	DECLARE_FUNCTION(execIsDead);
 
 
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execFire); \
 	DECLARE_FUNCTION(execGetHealthPercent); \
 	DECLARE_FUNCTION(execIsDead);
 
@@ -69,6 +71,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AShooterCharacter); \
 
 
 #define ProjektUnreal_Source_ProjektUnreal_ShooterCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__ProjectileClass() { return STRUCT_OFFSET(AShooterCharacter, ProjectileClass); } \
 	FORCEINLINE static uint32 __PPO__RotationRate() { return STRUCT_OFFSET(AShooterCharacter, RotationRate); } \
 	FORCEINLINE static uint32 __PPO__MaxHealth() { return STRUCT_OFFSET(AShooterCharacter, MaxHealth); } \
 	FORCEINLINE static uint32 __PPO__Health() { return STRUCT_OFFSET(AShooterCharacter, Health); } \

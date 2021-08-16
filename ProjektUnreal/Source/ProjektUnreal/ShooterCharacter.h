@@ -21,6 +21,10 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
+	// Projectile class to spawn.
+	UPROPERTY(EditDefaultsOnly, Category = Projectile)
+		TSubclassOf<class AFPSProjectile> ProjectileClass;
+
 public:	
 	UFUNCTION(BlueprintPure)
 		bool IsDead() const; //nie chcemy aby zmienialo wartosci
@@ -36,6 +40,14 @@ public:
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
 
 	void Shoot();
+
+	// Function that handles firing projectiles.
+	UFUNCTION()
+		void Fire();
+
+	// Gun muzzle offset from the camera location.
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+		FVector MuzzleOffset;
 
 private:
 	void MoveForward(float AxisValue);

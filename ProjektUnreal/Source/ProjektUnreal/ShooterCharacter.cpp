@@ -44,6 +44,7 @@ void AShooterCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCo
 	PlayerInputComponent->BindAxis(TEXT("LookRight"), this, &APawn::AddControllerYawInput);
 	PlayerInputComponent->BindAction(TEXT("Jump"), EInputEvent::IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction(TEXT("Shoot"), EInputEvent::IE_Pressed, this, &AShooterCharacter::Shoot);
+	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &AShooterCharacter::Fire);
 
 }
 //Ruch do przodu / tylu
@@ -93,4 +94,8 @@ bool AShooterCharacter::IsDead() const
 float AShooterCharacter::GetHealthPercent() const
 {
 	return Health / MaxHealth;
+}
+
+void AShooterCharacter::Fire()
+{
 }
